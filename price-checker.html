@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Price Checker — The Wool Room</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f8f7f4;
+      --surface: #ffffff;
+      --border: #e2ddd8;
+      --text: #1a1814;
+      --muted: #7a746c;
+      --accent: #4a7c59;
+      --up: #c0392b;
+      --down: #27ae60;
+      --tag-bg: #eef5f1;
+      --tag-text: #2d6e45;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .wrapper {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 24px 20px;
+    }
+
+    header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .subtitle {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .status-bar {
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    button {
+      cursor: pointer;
+      border: none;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 14px;
+      transition: opacity 0.15s, background 0.15s;
+    }
+
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    .btn-primary {
+      background: var(--accent);
+      color: #fff;
+    }
+    .btn-primary:hover:not(:disabled) { opacity: 0.88; }
+
+    .btn-ghost {
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+    .btn-ghost:hover:not(:disabled) { background: var(--bg); }
+
+    .controls {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 220px;
+      max-width: 380px;
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px;
+      background: var(--surface);
+      color: var(--text);
+      outline: none;
+    }
+    .search-box:focus { border-color: var(--accent); }
+
+    select {
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px;
+      background: var(--surface);
+      color: var(--text);
+      cursor: pointer;
+      outline: none;
+    }
+
+    .stats {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+
+    .stat {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px 16px;
+      min-width: 130px;
+    }
+
+    .stat-value {
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    .stat-label {
+      font-size: 11px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-top: 2px;
+    }
+
+    .stat-up .stat-value { color: var(--up); }
+    .stat-down .stat-value { color: var(--down); }
+
+    .table-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    thead {
+      background: var(--bg);
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+
+    th {
+      padding: 10px 14px;
+      text-align: left;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    th:hover { color: var(--text); }
+    th.sort-asc::after { content: " ↑"; }
+    th.sort-desc::after { content: " ↓"; }
+
+    td {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+    }
+
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: var(--bg); }
+
+    .sku {
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 12px;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      padding: 2px 6px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+
+    .price {
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .prev-price {
+      color: var(--muted);
+      text-decoration: line-through;
+      font-size: 12px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+
+    .badge-up { background: #fdecea; color: var(--up); }
+    .badge-down { background: #e9f7ef; color: var(--down); }
+    .badge-new { background: #eef4ff; color: #2554c7; }
+    .badge-same { background: #f4f4f4; color: #888; }
+
+    .timestamp {
+      font-size: 11px;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    .product-name {
+      max-width: 260px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .loading-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(248, 247, 244, 0.82);
+      backdrop-filter: blur(2px);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .loading-overlay.visible { display: flex; }
+
+    .spinner {
+      width: 36px;
+      height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .progress-text {
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+
+    .error-box {
+      display: none;
+      background: #fdecea;
+      border: 1px solid #f5c6c3;
+      color: var(--up);
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+
+    .error-box.visible { display: block; }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+
+    .empty-state svg {
+      margin-bottom: 12px;
+      opacity: 0.3;
+    }
+
+    #history-panel {
+      display: none;
+      position: fixed;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      width: 380px;
+      background: var(--surface);
+      border-left: 1px solid var(--border);
+      z-index: 200;
+      overflow-y: auto;
+      padding: 20px;
+      box-shadow: -4px 0 20px rgba(0,0,0,0.07);
+    }
+
+    #history-panel.open { display: block; }
+
+    .history-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+    }
+
+    .history-header h3 { font-size: 15px; font-weight: 600; }
+
+    .history-list { display: flex; flex-direction: column; gap: 10px; }
+
+    .history-entry {
+      padding: 10px 12px;
+      background: var(--bg);
+      border-radius: 7px;
+      border: 1px solid var(--border);
+    }
+
+    .history-entry .he-price {
+      font-weight: 600;
+      font-size: 15px;
+    }
+
+    .history-entry .he-meta {
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    .history-entry .he-delta {
+      float: right;
+      margin-top: 2px;
+    }
+
+    .tab-bar {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 16px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0;
+    }
+
+    .tab {
+      padding: 7px 14px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      border: none;
+      background: none;
+      color: var(--muted);
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+    }
+
+    .tab.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+  </style>
+</head>
+<body>
+
+<div class="loading-overlay" id="loading">
+  <div class="spinner"></div>
+  <div class="progress-text" id="progress-text">Fetching products…</div>
+</div>
+
+<div id="history-panel">
+  <div class="history-header">
+    <h3 id="history-sku-label">Price History</h3>
+    <button class="btn-ghost" onclick="closeHistory()" style="padding:5px 10px">✕ Close</button>
+  </div>
+  <div class="history-list" id="history-list"></div>
+</div>
+
+<div class="wrapper">
+  <header>
+    <div>
+      <h1>Price Checker</h1>
+      <div class="subtitle">The Wool Room — All SKUs</div>
+    </div>
+    <div class="header-actions">
+      <span class="status-bar" id="status-bar">Not yet synced</span>
+      <button class="btn-ghost" id="btn-export" onclick="exportCSV()" disabled>Export CSV</button>
+      <button class="btn-ghost" id="btn-clear" onclick="clearHistory()" disabled>Clear History</button>
+      <button class="btn-primary" id="btn-sync" onclick="runSync()">Sync Prices</button>
+    </div>
+  </header>
+
+
+  <div class="error-box" id="error-box"></div>
+
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-value" id="stat-total">—</div>
+      <div class="stat-label">Total SKUs</div>
+    </div>
+    <div class="stat stat-up">
+      <div class="stat-value" id="stat-up">—</div>
+      <div class="stat-label">Price Increases</div>
+    </div>
+    <div class="stat stat-down">
+      <div class="stat-value" id="stat-down">—</div>
+      <div class="stat-label">Price Decreases</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value" id="stat-new">—</div>
+      <div class="stat-label">New SKUs</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value" id="stat-changed">—</div>
+      <div class="stat-label">Changed (this sync)</div>
+    </div>
+  </div>
+
+  <div class="controls">
+    <input class="search-box" type="text" id="search" placeholder="Search SKU, product, or variant…" oninput="renderTable()" />
+    <select id="filter-change" onchange="renderTable()">
+      <option value="all">All SKUs</option>
+      <option value="changed">Changed only</option>
+      <option value="up">Price up</option>
+      <option value="down">Price down</option>
+      <option value="new">New SKUs</option>
+    </select>
+    <select id="sort-col" onchange="renderTable()">
+      <option value="sku">Sort: SKU</option>
+      <option value="product">Sort: Product</option>
+      <option value="price">Sort: Price</option>
+      <option value="changed_at">Sort: Last Changed</option>
+      <option value="pct">Sort: % Change</option>
+    </select>
+  </div>
+
+  <div class="table-wrap">
+    <table id="price-table">
+      <thead>
+        <tr>
+          <th>SKU</th>
+          <th>Product</th>
+          <th>Variant</th>
+          <th>Current Price</th>
+          <th>RRP</th>
+          <th>Change</th>
+          <th>Last Changed</th>
+          <th>History</th>
+        </tr>
+      </thead>
+      <tbody id="table-body">
+        <tr>
+          <td colspan="8">
+            <div class="empty-state">
+              <svg width="40" height="40" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+              </svg>
+              <p>No data yet. Click <strong>Sync Prices</strong> to fetch current US prices from Shopify.</p>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p style="font-size:11px;color:var(--muted);margin-top:12px;text-align:right" id="row-count"></p>
+</div>
+
+<script>
+// ─── Storage keys ─────────────────────────────────────────────────────────────
+const STORE_KEY   = 'wl_price_history';   // { [sku]: [{price, ts}] }
+const CONFIG_KEY  = 'wl_price_config';
+const CURRENT_KEY = 'wl_current_rows';
+
+// ─── State ────────────────────────────────────────────────────────────────────
+let rows = [];        // current display rows
+let lastSyncTs = null;
+
+// ─── Init ─────────────────────────────────────────────────────────────────────
+(function init() {
+
+  const stored = localStorage.getItem(CURRENT_KEY);
+  if (stored) {
+    try {
+      rows = JSON.parse(stored);
+      lastSyncTs = rows[0]?.syncTs ?? null;
+      updateStatus();
+      updateStats();
+      renderTable();
+      document.getElementById('btn-export').disabled = false;
+      document.getElementById('btn-clear').disabled  = false;
+    } catch(e) {}
+  }
+})();
+
+// ─── Config ───────────────────────────────────────────────────────────────────
+const STORE_URL = 'https://www.thewoolroom.com/en-us';
+
+function saveConfig() { return { domain: STORE_URL }; }
+
+// ─── Shopify public products.json ─────────────────────────────────────────────
+async function fetchAllProducts(baseUrl) {
+  let all = [], page = 1;
+
+  while (true) {
+    setProgress(`Fetching page ${page}…`);
+    const res = await fetch(`${baseUrl}/products.json?limit=250&page=${page}`);
+
+    if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}. Check the market URL is correct.`);
+    const json = await res.json();
+
+    if (!json.products?.length) break;
+    all.push(...json.products);
+    if (json.products.length < 250) break;
+    page++;
+  }
+
+  return all;
+}
+
+// ─── Sync ─────────────────────────────────────────────────────────────────────
+async function runSync() {
+  const cfg = saveConfig();
+
+  if (!cfg.domain) return showError('Enter your store market URL.');
+
+  clearError();
+  showLoading(true);
+  document.getElementById('btn-sync').disabled = true;
+
+  try {
+    const products = await fetchAllProducts(cfg.domain);
+    setProgress(`Processing ${products.length} products…`);
+
+    const now  = new Date().toISOString();
+    const hist = loadHistory();
+
+    // flatten to variant rows
+    const bundlePattern = /\b(bundle|set|kit|pack|collection)\b/i;
+    const seenSkus = new Set();
+    const newRows = [];
+    for (const p of products) {
+      const tags = (p.tags || []).join(' ').toLowerCase();
+      if (tags.includes('rest of world')) continue;
+      if (tags.includes('canada')) continue;
+      const titleAndTags = `${p.title} ${tags}`;
+      if (bundlePattern.test(titleAndTags)) continue;
+      for (const v of p.variants) {
+        if (!v.sku) continue;
+        const sku = v.sku;
+        if (seenSkus.has(sku)) continue;
+        seenSkus.add(sku);
+        const priceNum = parseFloat(v.price);
+        const rrpNum = v.compare_at_price ? parseFloat(v.compare_at_price) : null;
+        const currency = 'USD';
+
+        const skuHistory = hist[sku] || [];
+        const prev = skuHistory[skuHistory.length - 1];
+        const prevPrice = prev ? prev.price : null;
+
+        let changeType = 'same';
+        if (!prev)             changeType = 'new';
+        else if (priceNum > prevPrice) changeType = 'up';
+        else if (priceNum < prevPrice) changeType = 'down';
+
+        // only push to history when price actually changes (or first seen)
+        if (changeType !== 'same') {
+          skuHistory.push({ price: priceNum, currency, ts: now });
+          hist[sku] = skuHistory;
+        }
+
+        const changedAt = changeType !== 'same'
+          ? now
+          : (skuHistory.length > 0 ? skuHistory[skuHistory.length - 1].ts : now);
+
+        const pct = (prev && prevPrice !== 0)
+          ? ((priceNum - prevPrice) / prevPrice * 100)
+          : null;
+
+        newRows.push({
+          sku,
+          product:    p.title,
+          variant:    v.title === 'Default Title' ? '' : v.title,
+          price:      priceNum,
+          rrp:        rrpNum,
+          currency,
+          prevPrice,
+          changeType,
+          pct,
+          changedAt,
+          syncTs:     now,
+        });
+      }
+    }
+
+    saveHistory(hist);
+    rows = newRows;
+    lastSyncTs = now;
+    localStorage.setItem(CURRENT_KEY, JSON.stringify(rows));
+
+    updateStatus();
+    updateStats();
+    renderTable();
+    document.getElementById('btn-export').disabled = false;
+    document.getElementById('btn-clear').disabled  = false;
+
+  } catch (err) {
+    showError(`Sync failed: ${err.message}`);
+  } finally {
+    showLoading(false);
+    document.getElementById('btn-sync').disabled = false;
+  }
+}
+
+// ─── History store ────────────────────────────────────────────────────────────
+function loadHistory() {
+  try { return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; } catch { return {}; }
+}
+
+function saveHistory(h) {
+  localStorage.setItem(STORE_KEY, JSON.stringify(h));
+}
+
+function clearHistory() {
+  const pwd = prompt('Enter password to clear history:');
+  if (pwd === null) return;
+  if (pwd !== 'woolroom2026') { alert('Incorrect password.'); return; }
+  localStorage.removeItem(STORE_KEY);
+  localStorage.removeItem(CURRENT_KEY);
+  rows = [];
+  lastSyncTs = null;
+  updateStatus();
+  updateStats();
+  renderTable();
+  document.getElementById('btn-export').disabled = true;
+  document.getElementById('btn-clear').disabled  = true;
+}
+
+// ─── Render table ─────────────────────────────────────────────────────────────
+function renderTable() {
+  const q       = document.getElementById('search').value.toLowerCase();
+  const filter  = document.getElementById('filter-change').value;
+  const sortCol = document.getElementById('sort-col').value;
+
+  let data = rows.filter(r => {
+    if (q) {
+      const haystack = `${r.sku} ${r.product} ${r.variant}`.toLowerCase();
+      if (!haystack.includes(q)) return false;
+    }
+    if (filter === 'changed') return r.changeType !== 'same';
+    if (filter !== 'all')     return r.changeType === filter;
+    return true;
+  });
+
+  data.sort((a, b) => {
+    if (sortCol === 'sku')        return a.sku.localeCompare(b.sku);
+    if (sortCol === 'product')    return a.product.localeCompare(b.product);
+    if (sortCol === 'price')      return b.price - a.price;
+    if (sortCol === 'changed_at') return new Date(b.changedAt) - new Date(a.changedAt);
+    if (sortCol === 'pct') {
+      const ap = a.pct ?? 0, bp = b.pct ?? 0;
+      return Math.abs(bp) - Math.abs(ap);
+    }
+    return 0;
+  });
+
+  const tbody = document.getElementById('table-body');
+  if (!data.length) {
+    tbody.innerHTML = `<tr><td colspan="8"><div class="empty-state">
+      <p>No rows match your filter.</p></div></td></tr>`;
+    document.getElementById('row-count').textContent = '';
+    return;
+  }
+
+  tbody.innerHTML = data.map(r => {
+    const badge  = changeBadge(r.changeType, r.pct);
+    const prevEl = r.prevPrice != null
+      ? `<span class="prev-price">${fmt(r.prevPrice, r.currency)}</span>`
+      : '—';
+    return `<tr>
+      <td><span class="sku">${esc(r.sku)}</span></td>
+      <td><div class="product-name" title="${esc(r.product)}">${esc(r.product)}</div></td>
+      <td>${esc(r.variant || '—')}</td>
+      <td class="price">${fmt(r.price, r.currency)}</td>
+      <td>${r.rrp != null ? fmt(r.rrp, r.currency) : '—'}</td>
+      <td>${badge}</td>
+      <td class="timestamp">${fmtTs(r.changedAt)}</td>
+      <td><button class="btn-ghost" style="padding:4px 9px;font-size:12px"
+            onclick="openHistory('${esc(r.sku)}','${esc(r.product)} – ${esc(r.variant || '')}')">
+          View
+        </button></td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('row-count').textContent =
+    `Showing ${data.length} of ${rows.length} SKUs`;
+}
+
+function changeBadge(type, pct) {
+  if (type === 'same') return '';
+  if (type === 'new')  return `<span class="badge badge-new">NEW</span>`;
+  const arrow = type === 'up' ? '↑' : '↓';
+  const cls   = type === 'up' ? 'badge-up' : 'badge-down';
+  const label = pct != null ? `${arrow} ${Math.abs(pct).toFixed(1)}%` : arrow;
+  return `<span class="badge ${cls}">${label}</span>`;
+}
+
+// ─── History panel ────────────────────────────────────────────────────────────
+function openHistory(sku, label) {
+  const hist = loadHistory();
+  const entries = hist[sku] || [];
+  document.getElementById('history-sku-label').textContent = sku;
+  const list = document.getElementById('history-list');
+
+  if (!entries.length) {
+    list.innerHTML = '<p style="color:var(--muted);font-size:13px">No history recorded yet.</p>';
+  } else {
+    list.innerHTML = [...entries].reverse().map((e, i, arr) => {
+      const prev = arr[i + 1];
+      const delta = prev
+        ? ((e.price - prev.price) / prev.price * 100)
+        : null;
+      const deltaEl = delta != null
+        ? `<span class="badge he-delta ${delta > 0 ? 'badge-up' : delta < 0 ? 'badge-down' : 'badge-same'}">
+             ${delta > 0 ? '↑' : '↓'} ${Math.abs(delta).toFixed(1)}%
+           </span>`
+        : `<span class="badge badge-new he-delta">First recorded</span>`;
+      return `<div class="history-entry">
+        ${deltaEl}
+        <div class="he-price">${fmt(e.price, e.currency)}</div>
+        <div class="he-meta">${fmtTs(e.ts)}</div>
+      </div>`;
+    }).join('');
+  }
+
+  document.getElementById('history-panel').classList.add('open');
+}
+
+function closeHistory() {
+  document.getElementById('history-panel').classList.remove('open');
+}
+
+// ─── Stats ────────────────────────────────────────────────────────────────────
+function updateStats() {
+  const total   = rows.length;
+  const up      = rows.filter(r => r.changeType === 'up').length;
+  const down    = rows.filter(r => r.changeType === 'down').length;
+  const newSkus = rows.filter(r => r.changeType === 'new').length;
+  const changed = rows.filter(r => r.changeType !== 'same').length;
+
+  document.getElementById('stat-total').textContent   = total || '—';
+  document.getElementById('stat-up').textContent      = up    || (total ? '0' : '—');
+  document.getElementById('stat-down').textContent    = down  || (total ? '0' : '—');
+  document.getElementById('stat-new').textContent     = newSkus || (total ? '0' : '—');
+  document.getElementById('stat-changed').textContent = changed || (total ? '0' : '—');
+}
+
+function updateStatus() {
+  document.getElementById('status-bar').textContent = lastSyncTs
+    ? `Last synced: ${fmtTs(lastSyncTs)}`
+    : 'Not yet synced';
+}
+
+// ─── Export CSV ───────────────────────────────────────────────────────────────
+function exportCSV() {
+  const header = ['SKU','Product','Variant','Current Price','RRP','Currency','Previous Price','Change','% Change','Last Changed'];
+  const lines  = [header.join(',')];
+
+  for (const r of rows) {
+    lines.push([
+      csvCell(r.sku),
+      csvCell(r.product),
+      csvCell(r.variant),
+      r.price,
+      r.rrp ?? '',
+      r.currency,
+      r.prevPrice ?? '',
+      r.changeType,
+      r.pct != null ? r.pct.toFixed(2) : '',
+      r.changedAt,
+    ].join(','));
+  }
+
+  const blob = new Blob([lines.join('\n')], { type: 'text/csv' });
+  const a    = document.createElement('a');
+  a.href     = URL.createObjectURL(blob);
+  a.download = `us-prices-${new Date().toISOString().slice(0,10)}.csv`;
+  a.click();
+}
+
+function csvCell(v) {
+  const s = String(v ?? '');
+  return s.includes(',') || s.includes('"') || s.includes('\n')
+    ? `"${s.replace(/"/g, '""')}"`
+    : s;
+}
+
+// ─── Utilities ────────────────────────────────────────────────────────────────
+function fmt(price, currency = 'USD') {
+  return new Intl.NumberFormat('en-US', { style: 'currency', currency }).format(price);
+}
+
+function fmtTs(ts) {
+  return new Intl.DateTimeFormat('en-US', {
+    month: 'short', day: 'numeric', year: 'numeric',
+    hour: 'numeric', minute: '2-digit', hour12: true,
+    timeZoneName: 'short',
+  }).format(new Date(ts));
+}
+
+function esc(s) {
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function showLoading(v)    { document.getElementById('loading').classList.toggle('visible', v); }
+function setProgress(msg)  { document.getElementById('progress-text').textContent = msg; }
+function showError(msg)    { const b = document.getElementById('error-box'); b.textContent = msg; b.classList.add('visible'); }
+function clearError()      { document.getElementById('error-box').classList.remove('visible'); }
+</script>
+</body>
+</html>
