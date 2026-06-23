@@ -7,10 +7,19 @@ const BUNDLE_PATTERN = /\b(bundle|set|kit|pack|collection)\b/i;
 
 function fetch(url) {
   return new Promise((resolve, reject) => {
-    https.get(url, res => {
+    const options = {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; PriceChecker/1.0)' }
+    };
+    https.get(url, options, res => {
+      if (res.statusCode === 301 || res.statusCode === 302) {
+        return fetch(res.headers.location).then(resolve).catch(reject);
+      }
       let data = '';
       res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve(JSON.parse(data)));
+      res.on('end', () => {
+        try { resolve(JSON.parse(data)); }
+        catch(e) { reject(new Error(`Invalid JSON from ${url}: ${data.slice(0,100)}`)); }
+      });
       res.on('error', reject);
     }).on('error', reject);
   });
@@ -23,6 +32,7 @@ async function main() {
 
   let all = [], page = 1;
   while (true) {
+    console.log(`Fetching page ${page}...`);
     const json = await fetch(`${STORE_URL}/products.json?limit=250&page=${page}`);
     if (!json.products?.length) break;
     all.push(...json.products);
