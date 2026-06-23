@@ -2,10 +2,10 @@ name: Price Check
 
 on:
   schedule:
-    - cron: '0 5 * * *'   # 6:15am BST
-    - cron: '0 11 * * *'  # 12:15pm BST
-    - cron: '0 17 * * *'  # 6:15pm BST
-    - cron: '0 23 * * *'  # 12:15am BST
+    - cron: '15 5 * * *'   # 6:15am BST
+    - cron: '15 11 * * *'  # 12:15pm BST
+    - cron: '15 17 * * *'  # 6:15pm BST
+    - cron: '15 23 * * *'  # 12:15am BST
   workflow_dispatch:
 
 jobs:
