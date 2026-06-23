@@ -421,24 +421,17 @@ function getOrPromptToken() {
 
 // ─── GitHub history store ─────────────────────────────────────────────────────
 async function loadHistoryFromGitHub() {
-  // fetch via API to also get the SHA (needed for updates)
-  const token = localStorage.getItem(TOKEN_KEY);
-  const headers = { 'Accept': 'application/vnd.github.v3+json' };
-  if (token) headers['Authorization'] = `Bearer ${token}`;
-
-  const res = await fetch(GH_API_URL, { headers });
+  // Use public raw URL for reading — no auth, no rate-limit issues
+  const res = await fetch(GH_RAW_URL + '?_=' + Date.now());
 
   if (res.status === 404) {
-    // file doesn't exist yet — start fresh
     ghFileSha = null;
     return {};
   }
 
-  if (!res.ok) throw new Error(`GitHub API ${res.status}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
-  const meta = await res.json();
-  ghFileSha = meta.sha;
-  const content = JSON.parse(atob(meta.content.replace(/\n/g, '')));
+  const content = await res.json();
   cachedHist = content;
 
   // rebuild display rows from shared history
@@ -455,9 +448,23 @@ async function loadHistoryFromGitHub() {
   return content;
 }
 
+async function fetchGhFileSha(token) {
+  const res = await fetch(GH_API_URL, {
+    headers: { 'Accept': 'application/vnd.github.v3+json', 'Authorization': `Bearer ${token}` },
+  });
+  if (res.status === 404) return null;
+  if (!res.ok) throw new Error(`GitHub API ${res.status}`);
+  const meta = await res.json();
+  return meta.sha;
+}
+
 async function saveHistoryToGitHub(hist, newRows) {
   const token = localStorage.getItem(TOKEN_KEY);
   if (!token) throw new Error('No GitHub token — cannot save history.');
+
+  // Always fetch a fresh SHA before writing to avoid conflicts
+  setProgress('Getting file info from GitHub…');
+  ghFileSha = await fetchGhFileSha(token);
 
   const payload = { ...hist, _rows: newRows };
   const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
@@ -791,6 +798,4 @@ function fmtTs(ts) {
   }).format(new Date(ts));
 }
 function esc(s) {
-  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-function showLoading(v)   { document.getElementById('loading').classList.toggle('visible
+  return 
