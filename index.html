@@ -304,19 +304,6 @@
     </div>
   </header>
 
-  <!-- Token setup — hidden once token is saved -->
-  <div class="token-banner" id="token-banner">
-    <div style="font-size:20px">🔑</div>
-    <p>
-      <strong>Enter your GitHub token to enable syncing</strong>
-      <span>Needed to write price history back to the shared repo. Read-only view works without it.</span>
-    </p>
-    <div class="token-input-row">
-      <input class="token-input" type="password" id="token-input" placeholder="github_pat_…" />
-      <button class="btn-primary" onclick="saveToken()">Save Token</button>
-      <button class="btn-ghost" onclick="dismissBanner()">View only</button>
-    </div>
-  </div>
 
   <div class="error-box" id="error-box"></div>
 
@@ -406,11 +393,7 @@ let ghFileSha = null;   // needed to update the file via GitHub API
 
 // ─── Init ─────────────────────────────────────────────────────────────────────
 (async function init() {
-  const token = localStorage.getItem(TOKEN_KEY);
-  if (token) {
-    document.getElementById('token-banner').classList.add('hidden');
-    document.getElementById('btn-sync').disabled = false;
-  }
+  document.getElementById('btn-sync').disabled = false;
 
   // load shared history from GitHub
   try {
@@ -425,16 +408,14 @@ let ghFileSha = null;   // needed to update the file via GitHub API
 })();
 
 // ─── Token management ─────────────────────────────────────────────────────────
-function saveToken() {
-  const t = document.getElementById('token-input').value.trim();
-  if (!t) return alert('Please paste your GitHub token first.');
-  localStorage.setItem(TOKEN_KEY, t);
-  document.getElementById('token-banner').classList.add('hidden');
-  document.getElementById('btn-sync').disabled = false;
-}
-
-function dismissBanner() {
-  document.getElementById('token-banner').classList.add('hidden');
+function getOrPromptToken() {
+  let token = localStorage.getItem(TOKEN_KEY);
+  if (!token) {
+    token = prompt('Enter GitHub token to sync prices:');
+    if (!token) return null;
+    localStorage.setItem(TOKEN_KEY, token.trim());
+  }
+  return token;
 }
 
 // ─── GitHub history store ─────────────────────────────────────────────────────
@@ -521,6 +502,7 @@ async function fetchAllProducts() {
 
 // ─── Sync ─────────────────────────────────────────────────────────────────────
 async function runSync() {
+  if (!getOrPromptToken()) return;
   clearError();
   showLoading(true);
   document.getElementById('btn-sync').disabled = true;
@@ -561,7 +543,7 @@ async function runSync() {
         const prevPrice  = prev ? prev.price : null;
 
         let changeType = 'same';
-        if (!prev)                   changeType = 'new';
+        if (!prev)                     changeType = 'new';
         else if (priceNum > prevPrice) changeType = 'up';
         else if (priceNum < prevPrice) changeType = 'down';
 
@@ -570,16 +552,28 @@ async function runSync() {
           hist[sku] = skuHistory;
         }
 
+        // changedAt = when last price change occurred
         const changedAt = changeType !== 'same'
           ? now
           : (skuHistory.length > 0 ? skuHistory[skuHistory.length - 1].ts : now);
 
-        const pct = (prev && prevPrice !== 0)
-          ? ((priceNum - prevPrice) / prevPrice * 100)
+        // pct = change from previous price (at time of change, not just last sync)
+        const prevForPct = skuHistory.length > 1 ? skuHistory[skuHistory.length - 2].price : null;
+        const lastPrice  = skuHistory.length > 0 ? skuHistory[skuHistory.length - 1].price : priceNum;
+        const pct = (prevForPct && prevForPct !== 0)
+          ? ((lastPrice - prevForPct) / prevForPct * 100)
           : null;
 
+        // lastChangeType persists across syncs so the badge stays visible
+        let lastChangeType = changeType;
+        if (changeType === 'same' && skuHistory.length > 1) {
+          const a = skuHistory[skuHistory.length - 2].price;
+          const b = skuHistory[skuHistory.length - 1].price;
+          lastChangeType = b > a ? 'up' : b < a ? 'down' : 'same';
+        }
+
         newRows.push({ sku, product: p.title, variant: v.title === 'Default Title' ? '' : v.title,
-          price: priceNum, rrp: rrpNum, currency, prevPrice, changeType, pct, changedAt, syncTs: now });
+          price: priceNum, rrp: rrpNum, currency, prevPrice, changeType: lastChangeType, pct, changedAt, syncTs: now });
       }
     }
 
