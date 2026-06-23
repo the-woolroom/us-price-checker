@@ -1,0 +1,28 @@
+name: Price Check
+
+on:
+  schedule:
+        - cron: '0 5 * * *'   # 6am BST (UTC+1)
+    - cron: '0 11 * * *'  # 12pm BST (UTC+1)
+    - cron: '0 17 * * *'  # 6pm BST (UTC+1)
+    - cron: '0 23 * * *'  # 12am BST (UTC+1)
+  workflow_dispatch:       # allows manual trigger from Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch prices and update history
+        env:
+          SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
+        run: node .github/workflows/sync.js
+
+      - name: Commit updated history
+        run: |
+          git config user.name "Price Bot"
+          git config user.email "bot@thewoolroom.com"
+          git add price-history.json
+          git diff --staged --quiet || git commit -m "Price sync $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
