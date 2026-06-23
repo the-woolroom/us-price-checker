@@ -798,4 +798,12 @@ function fmtTs(ts) {
   }).format(new Date(ts));
 }
 function esc(s) {
-  return 
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function showLoading(v)   { document.getElementById('loading').classList.toggle('visible', v); }
+function setProgress(msg) { document.getElementById('progress-text').textContent = msg; }
+function showError(msg)   { const b = document.getElementById('error-box'); b.textContent = msg; b.classList.add('visible'); }
+function clearError()     { document.getElementById('error-box').classList.remove('visible'); }
+</script>
+</body>
+</html>
