@@ -422,7 +422,7 @@ function getOrPromptToken() {
 // ─── GitHub history store ─────────────────────────────────────────────────────
 async function loadHistoryFromGitHub() {
   // Use public raw URL for reading — no auth, no rate-limit issues
-  const res = await fetch(GH_RAW_URL + '?_=' + Date.now());
+  const res = await fetch(GH_RAW_URL);
 
   if (res.status === 404) {
     ghFileSha = null;
