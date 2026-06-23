@@ -389,7 +389,8 @@ const CURRENT_KEY = 'wl_current_rows';
 // ─── State ────────────────────────────────────────────────────────────────────
 let rows = [];
 let lastSyncTs = null;
-let ghFileSha = null;   // needed to update the file via GitHub API
+let ghFileSha = null;
+let cachedHist = {};   // in-memory history so panel always shows latest
 
 // ─── Init ─────────────────────────────────────────────────────────────────────
 (async function init() {
@@ -438,6 +439,7 @@ async function loadHistoryFromGitHub() {
   const meta = await res.json();
   ghFileSha = meta.sha;
   const content = JSON.parse(atob(meta.content.replace(/\n/g, '')));
+  cachedHist = content;
 
   // rebuild display rows from shared history
   if (content._rows) {
@@ -538,9 +540,11 @@ async function runSync() {
         const rrpNum   = v.compare_at_price ? parseFloat(v.compare_at_price) : null;
         const currency = 'USD';
 
-        const skuHistory = hist[sku] || [];
-        const prev       = skuHistory[skuHistory.length - 1];
-        const prevPrice  = prev ? prev.price : null;
+        const skuHistory    = hist[sku] || [];
+        const rrpHistory    = hist[sku + '_rrp'] || [];
+        const prev          = skuHistory[skuHistory.length - 1];
+        const prevPrice     = prev ? prev.price : null;
+        const prevRrp       = rrpHistory.length ? rrpHistory[rrpHistory.length - 1].price : null;
 
         let changeType = 'same';
         if (!prev)                     changeType = 'new';
@@ -550,6 +554,12 @@ async function runSync() {
         if (changeType !== 'same') {
           skuHistory.push({ price: priceNum, currency, ts: now });
           hist[sku] = skuHistory;
+        }
+
+        // track RRP changes separately
+        if (rrpNum !== null && rrpNum !== prevRrp) {
+          rrpHistory.push({ price: rrpNum, currency, ts: now });
+          hist[sku + '_rrp'] = rrpHistory;
         }
 
         // changedAt = when last price change occurred
@@ -580,6 +590,7 @@ async function runSync() {
     setProgress('Saving history to GitHub…');
     await saveHistoryToGitHub(hist, newRows);
 
+    cachedHist = hist;
     rows = newRows;
     lastSyncTs = now;
     updateStatus();
@@ -683,28 +694,34 @@ function changeBadge(type, pct) {
 async function openHistory(sku) {
   document.getElementById('history-sku-label').textContent = sku;
   const list = document.getElementById('history-list');
-  list.innerHTML = '<p style="color:var(--muted);font-size:13px">Loading…</p>';
   document.getElementById('history-panel').classList.add('open');
 
   try {
-    const raw = await fetch(GH_RAW_URL + '?t=' + Date.now());
-    const data = raw.ok ? await raw.json() : {};
-    const entries = data[sku] || [];
+    const priceEntries = cachedHist[sku] || [];
+    const rrpEntries   = cachedHist[sku + '_rrp'] || [];
 
-    if (!entries.length) {
+    if (!priceEntries.length && !rrpEntries.length) {
       list.innerHTML = '<p style="color:var(--muted);font-size:13px">No history recorded yet.</p>';
       return;
     }
 
-    list.innerHTML = [...entries].reverse().map((e, i, arr) => {
-      const prev = arr[i + 1];
+    // merge price and RRP entries into one timeline, sorted newest first
+    const allEntries = [
+      ...priceEntries.map(e => ({ ...e, type: 'price' })),
+      ...rrpEntries.map(e => ({ ...e, type: 'rrp' })),
+    ].sort((a, b) => new Date(b.ts) - new Date(a.ts));
+
+    list.innerHTML = allEntries.map((e, i, arr) => {
+      // find previous entry of same type to calculate delta
+      const prev = arr.slice(i + 1).find(x => x.type === e.type);
       const delta = prev ? ((e.price - prev.price) / prev.price * 100) : null;
       const deltaEl = delta != null
         ? `<span class="badge he-delta ${delta > 0 ? 'badge-up' : 'badge-down'}">${delta > 0 ? '↑' : '↓'} ${Math.abs(delta).toFixed(1)}%</span>`
         : `<span class="badge badge-new he-delta">First recorded</span>`;
+      const label = e.type === 'rrp' ? 'RRP' : 'Price';
       return `<div class="history-entry">
         ${deltaEl}
-        <div class="he-price">${fmt(e.price, e.currency)}</div>
+        <div class="he-price">${label}: ${fmt(e.price, e.currency)}</div>
         <div class="he-meta">${fmtTs(e.ts)}</div>
       </div>`;
     }).join('');
