@@ -2723,9 +2723,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0172FG",
@@ -2736,9 +2736,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0173FG",
@@ -2749,9 +2749,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0171LA",
@@ -2762,9 +2762,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0172LA",
@@ -2775,9 +2775,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0173LA",
@@ -2788,9 +2788,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0174FG",
@@ -2801,9 +2801,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0175FG",
@@ -2814,9 +2814,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0176FG",
@@ -2827,9 +2827,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0174LA",
@@ -2840,9 +2840,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0175LA",
@@ -2853,9 +2853,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0176LA",
@@ -2866,9 +2866,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0174MB",
@@ -2879,9 +2879,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0175MB",
@@ -2892,9 +2892,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0176MB",
@@ -2905,9 +2905,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0174CW",
@@ -2918,9 +2918,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0175CW",
@@ -2931,9 +2931,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0176CW",
@@ -2944,9 +2944,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0171MB",
@@ -2957,9 +2957,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0172MB",
@@ -2970,9 +2970,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0173MB",
@@ -2983,9 +2983,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0171CW",
@@ -2996,9 +2996,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0172CW",
@@ -3009,9 +3009,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0173CW",
@@ -3022,9 +3022,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0168FG",
@@ -3035,9 +3035,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0169FG",
@@ -3048,9 +3048,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0170FG",
@@ -3061,9 +3061,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0168LA",
@@ -3074,9 +3074,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0169LA",
@@ -3087,9 +3087,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0170LA",
@@ -3100,9 +3100,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0168MB",
@@ -3113,9 +3113,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0169MB",
@@ -3126,9 +3126,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0170MB",
@@ -3139,9 +3139,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0168CW",
@@ -3152,9 +3152,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0169CW",
@@ -3165,9 +3165,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0170CW",
@@ -3178,9 +3178,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0165FG",
@@ -3191,9 +3191,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0166FG",
@@ -3204,9 +3204,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0167FG",
@@ -3217,9 +3217,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0165LA",
@@ -3230,9 +3230,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0166LA",
@@ -3243,9 +3243,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0167LA",
@@ -3256,9 +3256,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0165MB",
@@ -3269,9 +3269,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0166MB",
@@ -3282,9 +3282,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0167MB",
@@ -3295,9 +3295,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0165CW",
@@ -3308,9 +3308,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0166CW",
@@ -3321,9 +3321,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0167CW",
@@ -3334,9 +3334,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50004GFGNA",
@@ -3347,9 +3347,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50006GFGNA",
@@ -3360,9 +3360,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50007GFGNA",
@@ -3373,9 +3373,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50004GCHNA",
@@ -3386,9 +3386,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50006GCHNA",
@@ -3399,9 +3399,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50007GCHNA",
@@ -3412,9 +3412,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50004GMBNA",
@@ -3425,9 +3425,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50006GMBNA",
@@ -3438,9 +3438,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50007GMBNA",
@@ -3451,9 +3451,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50042GFG",
@@ -3464,9 +3464,9 @@
       "currency": "USD",
       "prevPrice": 71.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50045GFG",
@@ -3477,9 +3477,9 @@
       "currency": "USD",
       "prevPrice": 90,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50046GFG",
@@ -3490,9 +3490,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50042GCH",
@@ -3503,9 +3503,9 @@
       "currency": "USD",
       "prevPrice": 71.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50045GCH",
@@ -3516,9 +3516,9 @@
       "currency": "USD",
       "prevPrice": 90,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50046GCH",
@@ -3529,9 +3529,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50042GMB",
@@ -3542,9 +3542,9 @@
       "currency": "USD",
       "prevPrice": 71.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50045GMB",
@@ -3555,9 +3555,9 @@
       "currency": "USD",
       "prevPrice": 90,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50046GMB",
@@ -3568,9 +3568,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50036GFG",
@@ -3581,9 +3581,9 @@
       "currency": "USD",
       "prevPrice": 97.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50037GFG",
@@ -3594,9 +3594,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50038GFG",
@@ -3607,9 +3607,9 @@
       "currency": "USD",
       "prevPrice": 142.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50036GCH",
@@ -3620,9 +3620,9 @@
       "currency": "USD",
       "prevPrice": 97.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50037GCH",
@@ -3633,9 +3633,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50038GCH",
@@ -3646,9 +3646,9 @@
       "currency": "USD",
       "prevPrice": 142.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50036GMB",
@@ -3659,9 +3659,9 @@
       "currency": "USD",
       "prevPrice": 97.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50037GMB",
@@ -3672,9 +3672,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50038GMB",
@@ -3685,9 +3685,9 @@
       "currency": "USD",
       "prevPrice": 142.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50030GFG",
@@ -3698,9 +3698,9 @@
       "currency": "USD",
       "prevPrice": 15,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50031GFG",
@@ -3711,9 +3711,9 @@
       "currency": "USD",
       "prevPrice": 18.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50032GFG",
@@ -3724,9 +3724,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50030GCH",
@@ -3737,9 +3737,9 @@
       "currency": "USD",
       "prevPrice": 15,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50031GCH",
@@ -3750,9 +3750,9 @@
       "currency": "USD",
       "prevPrice": 18.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50032GCH",
@@ -3763,9 +3763,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50030GMB",
@@ -3776,9 +3776,9 @@
       "currency": "USD",
       "prevPrice": 15,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50031GMB",
@@ -3789,9 +3789,9 @@
       "currency": "USD",
       "prevPrice": 18.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50032GMB",
@@ -3802,9 +3802,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00059NA",
@@ -3815,9 +3815,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00058NA",
@@ -3828,9 +3828,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13014SUNA",
@@ -3841,9 +3841,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00049NA",
@@ -3854,9 +3854,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "x-redo",
@@ -3867,9 +3867,9 @@
       "currency": "USD",
       "prevPrice": 3.85,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00046NA",
@@ -3880,9 +3880,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "WW1000NA",
@@ -3893,9 +3893,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "WW1001NA",
@@ -3906,9 +3906,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "WW1003NA",
@@ -3919,9 +3919,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "WW1005NA",
@@ -3932,9 +3932,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "WW1002NA",
@@ -3945,9 +3945,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "WW1006NA",
@@ -3958,9 +3958,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "WW1004NA",
@@ -3971,9 +3971,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10719PENA",
@@ -3984,9 +3984,9 @@
       "currency": "USD",
       "prevPrice": 337.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10720PENA",
@@ -3997,9 +3997,9 @@
       "currency": "USD",
       "prevPrice": 412.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10721PENA",
@@ -4010,9 +4010,9 @@
       "currency": "USD",
       "prevPrice": 487.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16007ECO",
@@ -4021,11 +4021,11 @@
       "price": 71.99,
       "rrp": 180,
       "currency": "USD",
-      "prevPrice": 72,
+      "prevPrice": 71.99,
       "changeType": "down",
       "pct": -0.013888888888895994,
       "changedAt": "2026-06-23T09:15:35.684Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31070GOTS",
@@ -4036,9 +4036,9 @@
       "currency": "USD",
       "prevPrice": 76,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31075GOTS",
@@ -4049,9 +4049,9 @@
       "currency": "USD",
       "prevPrice": 91,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31076GOTS",
@@ -4062,9 +4062,9 @@
       "currency": "USD",
       "prevPrice": 101.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31077GOTS",
@@ -4075,9 +4075,9 @@
       "currency": "USD",
       "prevPrice": 112,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0153",
@@ -4088,9 +4088,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0154",
@@ -4101,9 +4101,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0155",
@@ -4114,9 +4114,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0129",
@@ -4127,9 +4127,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0130",
@@ -4140,9 +4140,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0131",
@@ -4153,9 +4153,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0093",
@@ -4166,9 +4166,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0094",
@@ -4179,9 +4179,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0095",
@@ -4192,9 +4192,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0165",
@@ -4205,9 +4205,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0166",
@@ -4218,9 +4218,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0167",
@@ -4231,9 +4231,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0117",
@@ -4244,9 +4244,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0118",
@@ -4257,9 +4257,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0119",
@@ -4270,9 +4270,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0105",
@@ -4283,9 +4283,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0106",
@@ -4296,9 +4296,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0107",
@@ -4309,9 +4309,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0141",
@@ -4322,9 +4322,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0142",
@@ -4335,9 +4335,9 @@
       "currency": "USD",
       "prevPrice": 26.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0143",
@@ -4348,9 +4348,9 @@
       "currency": "USD",
       "prevPrice": 30,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50030GEG",
@@ -4361,9 +4361,9 @@
       "currency": "USD",
       "prevPrice": 15,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50031GEG",
@@ -4374,9 +4374,9 @@
       "currency": "USD",
       "prevPrice": 18.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50032GEG",
@@ -4387,9 +4387,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50030GWH",
@@ -4400,9 +4400,9 @@
       "currency": "USD",
       "prevPrice": 15,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50031GWH",
@@ -4413,9 +4413,9 @@
       "currency": "USD",
       "prevPrice": 18.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50032GWH",
@@ -4426,9 +4426,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50030GAL",
@@ -4439,9 +4439,9 @@
       "currency": "USD",
       "prevPrice": 15,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50031GAL",
@@ -4452,9 +4452,9 @@
       "currency": "USD",
       "prevPrice": 18.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50032GAL",
@@ -4465,9 +4465,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50030GMA",
@@ -4478,9 +4478,9 @@
       "currency": "USD",
       "prevPrice": 15,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50031GMA",
@@ -4491,9 +4491,9 @@
       "currency": "USD",
       "prevPrice": 18.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50032GMA",
@@ -4504,9 +4504,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50030GPI",
@@ -4517,9 +4517,9 @@
       "currency": "USD",
       "prevPrice": 15,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50031GPI",
@@ -4530,9 +4530,9 @@
       "currency": "USD",
       "prevPrice": 18.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50032GPI",
@@ -4543,9 +4543,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50030GVA",
@@ -4556,9 +4556,9 @@
       "currency": "USD",
       "prevPrice": 15,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50031GVA",
@@ -4569,9 +4569,9 @@
       "currency": "USD",
       "prevPrice": 18.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50032GVA",
@@ -4582,9 +4582,9 @@
       "currency": "USD",
       "prevPrice": 22.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0162",
@@ -4595,9 +4595,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0163",
@@ -4608,9 +4608,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0164",
@@ -4621,9 +4621,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0138",
@@ -4634,9 +4634,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0139",
@@ -4647,9 +4647,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0140",
@@ -4660,9 +4660,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0102",
@@ -4673,9 +4673,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0103",
@@ -4686,9 +4686,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0104",
@@ -4699,9 +4699,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0174",
@@ -4712,9 +4712,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0175",
@@ -4725,9 +4725,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0176",
@@ -4738,9 +4738,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0126",
@@ -4751,9 +4751,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0127",
@@ -4764,9 +4764,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0128",
@@ -4777,9 +4777,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0114",
@@ -4790,9 +4790,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0115",
@@ -4803,9 +4803,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0116",
@@ -4816,9 +4816,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0150",
@@ -4829,9 +4829,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0151",
@@ -4842,9 +4842,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0152",
@@ -4855,9 +4855,9 @@
       "currency": "USD",
       "prevPrice": 172.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50004GALNA",
@@ -4868,9 +4868,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50006GALNA",
@@ -4881,9 +4881,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50007GALNA",
@@ -4894,9 +4894,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50004GEGNA",
@@ -4907,9 +4907,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50006GEGNA",
@@ -4920,9 +4920,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50007GEGNA",
@@ -4933,9 +4933,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50004GMANA",
@@ -4946,9 +4946,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50006GMANA",
@@ -4959,9 +4959,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50007GMANA",
@@ -4972,9 +4972,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50004GPINA",
@@ -4985,9 +4985,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50006GPINA",
@@ -4998,9 +4998,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50007GPINA",
@@ -5011,9 +5011,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50004GVANA",
@@ -5024,9 +5024,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50006GVANA",
@@ -5037,9 +5037,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50007GVANA",
@@ -5050,9 +5050,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50004GWHNA",
@@ -5063,9 +5063,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50005GWHNA",
@@ -5076,9 +5076,9 @@
       "currency": "USD",
       "prevPrice": 60,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50006GWHNA",
@@ -5089,9 +5089,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50007GWHNA",
@@ -5102,9 +5102,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0159",
@@ -5115,9 +5115,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0160",
@@ -5128,9 +5128,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0161",
@@ -5141,9 +5141,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0135",
@@ -5154,9 +5154,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0136",
@@ -5167,9 +5167,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0137",
@@ -5180,9 +5180,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0099",
@@ -5193,9 +5193,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0100",
@@ -5206,9 +5206,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0101",
@@ -5219,9 +5219,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0171",
@@ -5232,9 +5232,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0172",
@@ -5245,9 +5245,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0173",
@@ -5258,9 +5258,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0123",
@@ -5271,9 +5271,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0124",
@@ -5284,9 +5284,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0125",
@@ -5297,9 +5297,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0111",
@@ -5310,9 +5310,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0112",
@@ -5323,9 +5323,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0113",
@@ -5336,9 +5336,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0147",
@@ -5349,9 +5349,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0148",
@@ -5362,9 +5362,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0149",
@@ -5375,9 +5375,9 @@
       "currency": "USD",
       "prevPrice": 180,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50042GAL",
@@ -5388,9 +5388,9 @@
       "currency": "USD",
       "prevPrice": 71.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50045GAL",
@@ -5401,9 +5401,9 @@
       "currency": "USD",
       "prevPrice": 90,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50046GAL",
@@ -5414,9 +5414,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50042GMA",
@@ -5427,9 +5427,9 @@
       "currency": "USD",
       "prevPrice": 71.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50045GMA",
@@ -5440,9 +5440,9 @@
       "currency": "USD",
       "prevPrice": 90,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50046GMA",
@@ -5453,9 +5453,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50042GPI",
@@ -5466,9 +5466,9 @@
       "currency": "USD",
       "prevPrice": 71.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50045GPI",
@@ -5479,9 +5479,9 @@
       "currency": "USD",
       "prevPrice": 90,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50046GPI",
@@ -5492,9 +5492,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50042GEG",
@@ -5505,9 +5505,9 @@
       "currency": "USD",
       "prevPrice": 71.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50045GEG",
@@ -5518,9 +5518,9 @@
       "currency": "USD",
       "prevPrice": 90,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50046GEG",
@@ -5531,9 +5531,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50042GVA",
@@ -5544,9 +5544,9 @@
       "currency": "USD",
       "prevPrice": 71.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50045GVA",
@@ -5557,9 +5557,9 @@
       "currency": "USD",
       "prevPrice": 90,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50046GVA",
@@ -5570,9 +5570,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50042GWH",
@@ -5583,9 +5583,9 @@
       "currency": "USD",
       "prevPrice": 71.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50043GWH",
@@ -5596,9 +5596,9 @@
       "currency": "USD",
       "prevPrice": 75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50044GWH",
@@ -5609,9 +5609,9 @@
       "currency": "USD",
       "prevPrice": 90,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50045GWH",
@@ -5622,9 +5622,9 @@
       "currency": "USD",
       "prevPrice": 101.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50046GWH",
@@ -5635,9 +5635,9 @@
       "currency": "USD",
       "prevPrice": 93.75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0156",
@@ -5648,9 +5648,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0157",
@@ -5661,9 +5661,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0158",
@@ -5674,9 +5674,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0132",
@@ -5687,9 +5687,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0133",
@@ -5700,9 +5700,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0134",
@@ -5713,9 +5713,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0096",
@@ -5726,9 +5726,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0097",
@@ -5739,9 +5739,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0098",
@@ -5752,9 +5752,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0168",
@@ -5765,9 +5765,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0169",
@@ -5778,9 +5778,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0170",
@@ -5791,9 +5791,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0120",
@@ -5804,9 +5804,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0121",
@@ -5817,9 +5817,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0122",
@@ -5830,9 +5830,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0108",
@@ -5843,9 +5843,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0109",
@@ -5856,9 +5856,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0110",
@@ -5869,9 +5869,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0144",
@@ -5882,9 +5882,9 @@
       "currency": "USD",
       "prevPrice": 165,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0145",
@@ -5895,9 +5895,9 @@
       "currency": "USD",
       "prevPrice": 206.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "BLM0146",
@@ -5908,9 +5908,9 @@
       "currency": "USD",
       "prevPrice": 247.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50036GAL",
@@ -5921,9 +5921,9 @@
       "currency": "USD",
       "prevPrice": 97.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50037GAL",
@@ -5934,9 +5934,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50038GAL",
@@ -5947,9 +5947,9 @@
       "currency": "USD",
       "prevPrice": 142.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50036GMA",
@@ -5960,9 +5960,9 @@
       "currency": "USD",
       "prevPrice": 97.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50037GMA",
@@ -5973,9 +5973,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50038GMA",
@@ -5986,9 +5986,9 @@
       "currency": "USD",
       "prevPrice": 142.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50036GPI",
@@ -5999,9 +5999,9 @@
       "currency": "USD",
       "prevPrice": 97.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50037GPI",
@@ -6012,9 +6012,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50038GPI",
@@ -6025,9 +6025,9 @@
       "currency": "USD",
       "prevPrice": 142.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50036GVA",
@@ -6038,9 +6038,9 @@
       "currency": "USD",
       "prevPrice": 97.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50037GVA",
@@ -6051,9 +6051,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50038GVA",
@@ -6064,9 +6064,9 @@
       "currency": "USD",
       "prevPrice": 142.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50036GEG",
@@ -6077,9 +6077,9 @@
       "currency": "USD",
       "prevPrice": 97.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50037GEG",
@@ -6090,9 +6090,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50038GEG",
@@ -6103,9 +6103,9 @@
       "currency": "USD",
       "prevPrice": 142.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50036GWH",
@@ -6116,9 +6116,9 @@
       "currency": "USD",
       "prevPrice": 97.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50037GWH",
@@ -6129,9 +6129,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50038GWH",
@@ -6142,9 +6142,9 @@
       "currency": "USD",
       "prevPrice": 142.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31037GOTS",
@@ -6155,9 +6155,9 @@
       "currency": "USD",
       "prevPrice": 612.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31038GOTS",
@@ -6168,9 +6168,9 @@
       "currency": "USD",
       "prevPrice": 735,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31039GOTS",
@@ -6181,9 +6181,9 @@
       "currency": "USD",
       "prevPrice": 875,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31028GOTS",
@@ -6194,9 +6194,9 @@
       "currency": "USD",
       "prevPrice": 308,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31029GOTS",
@@ -6207,9 +6207,9 @@
       "currency": "USD",
       "prevPrice": 378,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31030GOTS",
@@ -6220,9 +6220,9 @@
       "currency": "USD",
       "prevPrice": 490,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31031GOTS",
@@ -6233,9 +6233,9 @@
       "currency": "USD",
       "prevPrice": 350,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31032GOTS",
@@ -6246,9 +6246,9 @@
       "currency": "USD",
       "prevPrice": 441,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31033GOTS",
@@ -6259,9 +6259,9 @@
       "currency": "USD",
       "prevPrice": 525,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31034GOTS",
@@ -6272,9 +6272,9 @@
       "currency": "USD",
       "prevPrice": 420,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31035GOTS",
@@ -6285,9 +6285,9 @@
       "currency": "USD",
       "prevPrice": 497,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31036GOTS",
@@ -6298,9 +6298,9 @@
       "currency": "USD",
       "prevPrice": 581,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "19055ECO",
@@ -6311,9 +6311,9 @@
       "currency": "USD",
       "prevPrice": 420,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "19056ECO",
@@ -6324,9 +6324,9 @@
       "currency": "USD",
       "prevPrice": 490,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "19057ECO",
@@ -6337,9 +6337,9 @@
       "currency": "USD",
       "prevPrice": 630,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "19005ECO",
@@ -6350,9 +6350,9 @@
       "currency": "USD",
       "prevPrice": 210,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "19006ECO",
@@ -6363,9 +6363,9 @@
       "currency": "USD",
       "prevPrice": 252,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "19007ECO",
@@ -6376,9 +6376,9 @@
       "currency": "USD",
       "prevPrice": 322,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "19013ECO",
@@ -6389,9 +6389,9 @@
       "currency": "USD",
       "prevPrice": 245,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "19014ECO",
@@ -6402,9 +6402,9 @@
       "currency": "USD",
       "prevPrice": 294,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "19015ECO",
@@ -6415,9 +6415,9 @@
       "currency": "USD",
       "prevPrice": 378,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16000ECO",
@@ -6428,9 +6428,9 @@
       "currency": "USD",
       "prevPrice": 287,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16001ECO",
@@ -6441,9 +6441,9 @@
       "currency": "USD",
       "prevPrice": 343,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16002ECO",
@@ -6454,9 +6454,9 @@
       "currency": "USD",
       "prevPrice": 448,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17028EC",
@@ -6467,9 +6467,9 @@
       "currency": "USD",
       "prevPrice": 147,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17030EC",
@@ -6480,9 +6480,9 @@
       "currency": "USD",
       "prevPrice": 182,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17031EC",
@@ -6493,9 +6493,9 @@
       "currency": "USD",
       "prevPrice": 203,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17032EC",
@@ -6506,9 +6506,9 @@
       "currency": "USD",
       "prevPrice": 175,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17033EC",
@@ -6519,9 +6519,9 @@
       "currency": "USD",
       "prevPrice": 210,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17034EC",
@@ -6532,9 +6532,9 @@
       "currency": "USD",
       "prevPrice": 238,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17006EC",
@@ -6545,9 +6545,9 @@
       "currency": "USD",
       "prevPrice": 203,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17007EC",
@@ -6558,9 +6558,9 @@
       "currency": "USD",
       "prevPrice": 238,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17008EC",
@@ -6571,9 +6571,9 @@
       "currency": "USD",
       "prevPrice": 273,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13003DENA",
@@ -6584,9 +6584,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "12612TFNA",
@@ -6597,9 +6597,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00055NA",
@@ -6610,9 +6610,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00054NA",
@@ -6623,9 +6623,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10230GYNA",
@@ -6636,9 +6636,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00051NA",
@@ -6649,9 +6649,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00052NA",
@@ -6662,9 +6662,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10381NANA",
@@ -6675,9 +6675,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00050NA",
@@ -6688,9 +6688,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13042PLNA",
@@ -6701,9 +6701,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13040GRNA",
@@ -6714,9 +6714,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13042BLNA",
@@ -6727,9 +6727,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13041BENA",
@@ -6740,9 +6740,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13037GINA",
@@ -6753,9 +6753,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "12590TENA",
@@ -6766,9 +6766,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "12589TLNA",
@@ -6779,9 +6779,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "12587GYNA",
@@ -6792,9 +6792,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "12591NANA",
@@ -6805,9 +6805,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13038YBNA",
@@ -6818,9 +6818,9 @@
       "currency": "USD",
       "prevPrice": 120,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10269NANA",
@@ -6831,9 +6831,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00042NA",
@@ -6844,9 +6844,9 @@
       "currency": "USD",
       "prevPrice": 135,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "TH00035NA",
@@ -6857,9 +6857,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13012LSNA",
@@ -6870,9 +6870,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13015HENA",
@@ -6883,9 +6883,9 @@
       "currency": "USD",
       "prevPrice": 112.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13011PKNA",
@@ -6896,9 +6896,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13013BRNA",
@@ -6909,9 +6909,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "13010GRNA",
@@ -6922,9 +6922,9 @@
       "currency": "USD",
       "prevPrice": 127.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "USRECYCLESERVICE",
@@ -6935,9 +6935,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "USMATTRESSINSTALL",
@@ -6948,9 +6948,9 @@
       "currency": "USD",
       "prevPrice": 150,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10703PENA",
@@ -6961,9 +6961,9 @@
       "currency": "USD",
       "prevPrice": 191.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10704PENA",
@@ -6974,9 +6974,9 @@
       "currency": "USD",
       "prevPrice": 262.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10705PENA",
@@ -6987,9 +6987,9 @@
       "currency": "USD",
       "prevPrice": 307.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10699MONA",
@@ -7000,9 +7000,9 @@
       "currency": "USD",
       "prevPrice": 191.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10700MONA",
@@ -7013,9 +7013,9 @@
       "currency": "USD",
       "prevPrice": 262.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10701MONA",
@@ -7026,9 +7026,9 @@
       "currency": "USD",
       "prevPrice": 307.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50029GWHNA",
@@ -7039,9 +7039,9 @@
       "currency": "USD",
       "prevPrice": 56.25,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "50047GWHNA",
@@ -7052,9 +7052,9 @@
       "currency": "USD",
       "prevPrice": 37.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31040GOTS",
@@ -7065,9 +7065,9 @@
       "currency": "USD",
       "prevPrice": 322,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31041GOTS",
@@ -7078,9 +7078,9 @@
       "currency": "USD",
       "prevPrice": 357,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31042GOTS",
@@ -7091,9 +7091,9 @@
       "currency": "USD",
       "prevPrice": 455,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31043GOTS",
@@ -7104,9 +7104,9 @@
       "currency": "USD",
       "prevPrice": 490,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31045GOTS",
@@ -7117,9 +7117,9 @@
       "currency": "USD",
       "prevPrice": 630,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31044GOTS",
@@ -7130,9 +7130,9 @@
       "currency": "USD",
       "prevPrice": 630,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10838ECO",
@@ -7143,9 +7143,9 @@
       "currency": "USD",
       "prevPrice": 238,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10839ECO",
@@ -7156,9 +7156,9 @@
       "currency": "USD",
       "prevPrice": 266,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16005ECO",
@@ -7169,9 +7169,9 @@
       "currency": "USD",
       "prevPrice": 336,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10840ECO",
@@ -7182,9 +7182,9 @@
       "currency": "USD",
       "prevPrice": 364,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10841ECO",
@@ -7195,9 +7195,9 @@
       "currency": "USD",
       "prevPrice": 455,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16006ECO",
@@ -7208,9 +7208,9 @@
       "currency": "USD",
       "prevPrice": 455,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31064GOTS",
@@ -7221,9 +7221,9 @@
       "currency": "USD",
       "prevPrice": 231,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31065GOTS",
@@ -7234,9 +7234,9 @@
       "currency": "USD",
       "prevPrice": 252,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31066GOTS",
@@ -7247,9 +7247,9 @@
       "currency": "USD",
       "prevPrice": 280,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31067GOTS",
@@ -7260,9 +7260,9 @@
       "currency": "USD",
       "prevPrice": 315,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31069GOTS",
@@ -7273,9 +7273,9 @@
       "currency": "USD",
       "prevPrice": 350,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31068GOTS",
@@ -7286,9 +7286,9 @@
       "currency": "USD",
       "prevPrice": 350,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16009ECO",
@@ -7299,9 +7299,9 @@
       "currency": "USD",
       "prevPrice": 196,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16010ECO",
@@ -7312,9 +7312,9 @@
       "currency": "USD",
       "prevPrice": 217,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16011ECO",
@@ -7325,9 +7325,9 @@
       "currency": "USD",
       "prevPrice": 238,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16012ECO",
@@ -7338,9 +7338,9 @@
       "currency": "USD",
       "prevPrice": 273,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16014ECO",
@@ -7351,9 +7351,9 @@
       "currency": "USD",
       "prevPrice": 308,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16013ECO",
@@ -7364,9 +7364,9 @@
       "currency": "USD",
       "prevPrice": 308,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10834ECO",
@@ -7377,9 +7377,9 @@
       "currency": "USD",
       "prevPrice": 168,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10835ECO",
@@ -7390,9 +7390,9 @@
       "currency": "USD",
       "prevPrice": 182,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16003ECO",
@@ -7403,9 +7403,9 @@
       "currency": "USD",
       "prevPrice": 217,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10836ECO",
@@ -7416,9 +7416,9 @@
       "currency": "USD",
       "prevPrice": 238,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10837ECO",
@@ -7429,9 +7429,9 @@
       "currency": "USD",
       "prevPrice": 280,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "16004ECO",
@@ -7442,9 +7442,9 @@
       "currency": "USD",
       "prevPrice": 280,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "90117XXNA",
@@ -7455,9 +7455,9 @@
       "currency": "USD",
       "prevPrice": 42,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31059GOTSNA",
@@ -7468,9 +7468,9 @@
       "currency": "USD",
       "prevPrice": 175,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31046GOTS",
@@ -7481,9 +7481,9 @@
       "currency": "USD",
       "prevPrice": 140,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31047GOTS",
@@ -7494,9 +7494,9 @@
       "currency": "USD",
       "prevPrice": 147,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31048GOTS",
@@ -7507,9 +7507,9 @@
       "currency": "USD",
       "prevPrice": 161,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "USLATPSTAN",
@@ -7520,9 +7520,9 @@
       "currency": "USD",
       "prevPrice": 140,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "USLATPQUEE",
@@ -7533,9 +7533,9 @@
       "currency": "USD",
       "prevPrice": 147,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "USLATPKING",
@@ -7546,9 +7546,9 @@
       "currency": "USD",
       "prevPrice": 154,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "31078GOTSNA",
@@ -7559,9 +7559,9 @@
       "currency": "USD",
       "prevPrice": 52.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "PPUSS001ECO",
@@ -7572,9 +7572,9 @@
       "currency": "USD",
       "prevPrice": 63,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "PPUSQ002ECO",
@@ -7585,9 +7585,9 @@
       "currency": "USD",
       "prevPrice": 70,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "PPUSK003ECO",
@@ -7598,9 +7598,9 @@
       "currency": "USD",
       "prevPrice": 77,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10845ECONA",
@@ -7611,9 +7611,9 @@
       "currency": "USD",
       "prevPrice": 154,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10842ECO",
@@ -7624,9 +7624,9 @@
       "currency": "USD",
       "prevPrice": 105,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10843ECO",
@@ -7637,9 +7637,9 @@
       "currency": "USD",
       "prevPrice": 112,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10844ECO",
@@ -7650,9 +7650,9 @@
       "currency": "USD",
       "prevPrice": 119,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "10891ECONA",
@@ -7663,9 +7663,9 @@
       "currency": "USD",
       "prevPrice": 224,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "PCUSS001ECO",
@@ -7676,9 +7676,9 @@
       "currency": "USD",
       "prevPrice": 67.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "PCUSQ002ECO",
@@ -7689,9 +7689,9 @@
       "currency": "USD",
       "prevPrice": 75,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "PCUSK003ECO",
@@ -7702,9 +7702,9 @@
       "currency": "USD",
       "prevPrice": 82.5,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17009EC",
@@ -7715,9 +7715,9 @@
       "currency": "USD",
       "prevPrice": 77,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17010EC",
@@ -7728,9 +7728,9 @@
       "currency": "USD",
       "prevPrice": 84,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     },
     {
       "sku": "17011EC",
@@ -7741,9 +7741,9 @@
       "currency": "USD",
       "prevPrice": 98,
       "changeType": "same",
-      "pct": 0,
+      "pct": null,
       "changedAt": "2026-06-23T09:04:11.518Z",
-      "syncTs": "2026-06-23T09:15:35.684Z"
+      "syncTs": "2026-06-23T09:20:04.995Z"
     }
   ]
 }
