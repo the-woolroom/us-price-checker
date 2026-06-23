@@ -711,22 +711,28 @@ async function openHistory(sku) {
       ...rrpEntries.map(e => ({ ...e, type: 'rrp' })),
     ].sort((a, b) => new Date(b.ts) - new Date(a.ts));
 
-    const oldestTs = allEntries[allEntries.length - 1]?.ts;
-    list.innerHTML = allEntries.map((e, i, arr) => {
-      // find previous entry of same type to calculate delta
-      const prev = arr.slice(i + 1).find(x => x.type === e.type);
-      const delta = prev ? ((e.price - prev.price) / prev.price * 100) : null;
-      const isOldest = e.ts === oldestTs && i === arr.length - 1;
-      const deltaEl = delta != null
-        ? `<span class="badge he-delta ${delta > 0 ? 'badge-up' : 'badge-down'}">${delta > 0 ? '↑' : '↓'} ${Math.abs(delta).toFixed(1)}%</span>`
-        : isOldest ? `<span class="badge badge-new he-delta">First recorded</span>` : '';
-      const label = e.type === 'rrp' ? 'RRP' : 'Price';
-      return `<div class="history-entry">
-        ${deltaEl}
-        <div class="he-price">${label}: ${fmt(e.price, e.currency)}</div>
-        <div class="he-meta">${fmtTs(e.ts)}</div>
-      </div>`;
-    }).join('');
+    function renderSection(entries, label) {
+      if (!entries.length) return `<p style="color:var(--muted);font-size:12px">No ${label.toLowerCase()} changes recorded yet.</p>`;
+      return [...entries].reverse().map((e, i, arr) => {
+        const prev = arr[i + 1];
+        const delta = prev ? ((e.price - prev.price) / prev.price * 100) : null;
+        const deltaEl = delta != null
+          ? `<span class="badge he-delta ${delta > 0 ? 'badge-up' : 'badge-down'}">${delta > 0 ? '↑' : '↓'} ${Math.abs(delta).toFixed(1)}%</span>`
+          : `<span class="badge badge-new he-delta">First recorded</span>`;
+        return `<div class="history-entry">
+          ${deltaEl}
+          <div class="he-price">${fmt(e.price, e.currency)}</div>
+          <div class="he-meta">${fmtTs(e.ts)}</div>
+        </div>`;
+      }).join('');
+    }
+
+    list.innerHTML = `
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.06em;color:var(--muted);margin-bottom:8px">Price History</div>
+      ${renderSection(priceEntries, 'Price')}
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.06em;color:var(--muted);margin-top:16px;margin-bottom:8px">RRP History</div>
+      ${renderSection(rrpEntries, 'RRP')}
+    `;
   } catch(e) {
     list.innerHTML = '<p style="color:var(--muted);font-size:13px">Could not load history.</p>';
   }
@@ -787,10 +793,4 @@ function fmtTs(ts) {
 function esc(s) {
   return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
-function showLoading(v)   { document.getElementById('loading').classList.toggle('visible', v); }
-function setProgress(msg) { document.getElementById('progress-text').textContent = msg; }
-function showError(msg)   { const b = document.getElementById('error-box'); b.textContent = msg; b.classList.add('visible'); }
-function clearError()     { document.getElementById('error-box').classList.remove('visible'); }
-</script>
-</body>
-</html>
+function showLoading(v)   { document.getElementById('loading').classList.toggle('visible
