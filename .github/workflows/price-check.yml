@@ -2,10 +2,8 @@ name: Price Check
 
 on:
   schedule:
-    - cron: '15 5 * * *'   # 6:15am BST
-    - cron: '15 11 * * *'  # 12:15pm BST
-    - cron: '15 17 * * *'  # 6:15pm BST
-    - cron: '15 23 * * *'  # 12:15am BST
+    - cron: '15 0,6,12,18 * * *'   # winter UK = 00:15, 06:15, 12:15, 18:15
+    - cron: '15 1,7,13,19 * * *'   # summer UK = 01:15, 07:15, 13:15, 19:15
   workflow_dispatch:
 
 jobs:
