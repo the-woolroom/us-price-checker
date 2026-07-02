@@ -212,7 +212,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
+      display: block;
     }
+    a.product-name { color: inherit; text-decoration: none; }
+    a.product-name:hover { text-decoration: underline; color: var(--accent); }
 
     .loading-overlay {
       display: none;
@@ -589,8 +592,11 @@ async function runSync() {
           lastChangeType = b > a ? 'up' : b < a ? 'down' : 'same';
         }
 
+        const url = `${STORE_URL}/products/${p.handle}?variant=${v.id}`;
+
         newRows.push({ sku, product: p.title, variant: v.title === 'Default Title' ? '' : v.title,
-          price: priceNum, rrp: rrpNum, currency, prevPrice, changeType: lastChangeType, pct, changedAt, syncTs: now });
+          price: priceNum, rrp: rrpNum, currency, prevPrice, changeType: lastChangeType, pct, changedAt, syncTs: now,
+          handle: p.handle, variantId: v.id, url });
       }
     }
 
@@ -675,7 +681,9 @@ function renderTable() {
 
   tbody.innerHTML = data.map(r => `<tr>
     <td><span class="sku">${esc(r.sku)}</span></td>
-    <td><div class="product-name" title="${esc(r.product)}">${esc(r.product)}</div></td>
+    <td>${r.url
+      ? `<a class="product-name" href="${esc(r.url)}" target="_blank" rel="noopener" title="${esc(r.product)} — open live page">${esc(r.product)}</a>`
+      : `<div class="product-name" title="${esc(r.product)}">${esc(r.product)}</div>`}</td>
     <td>${esc(r.variant || '—')}</td>
     <td class="price">${fmt(r.price, r.currency)}</td>
     <td>${r.rrp != null ? fmt(r.rrp, r.currency) : '—'}</td>
