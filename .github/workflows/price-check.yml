@@ -2,19 +2,37 @@ name: Price Check
 
 on:
   schedule:
-    - cron: '15 5 * * *'   # 6:15am BST
-    - cron: '15 11 * * *'  # 12:15pm BST
-    - cron: '15 17 * * *'  # 6:15pm BST
-    - cron: '15 23 * * *'  # 12:15am BST
+    # Summer (BST = UTC+1)
+    - cron: '15 5 * * *'    # 06:15 BST
+    - cron: '15 11 * * *'   # 12:15 BST
+    - cron: '15 17 * * *'   # 18:15 BST
+    - cron: '15 23 * * *'   # 00:15 BST
+
+    # Winter (GMT = UTC)
+    - cron: '15 6 * * *'    # 06:15 GMT
+    - cron: '15 12 * * *'   # 12:15 GMT
+    - cron: '15 18 * * *'   # 18:15 GMT
+    - cron: '15 0 * * *'    # 00:15 GMT
+
   workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show current time
+        run: |
+          echo "UTC Time:"
+          date -u
+          echo "Local Time:"
+          date
 
       - name: Fetch prices and update history
         env:
@@ -25,6 +43,9 @@ jobs:
         run: |
           git config user.name "Price Bot"
           git config user.email "bot@thewoolroom.com"
+
           git add price-history.json
+
           git diff --staged --quiet || git commit -m "Price sync $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
           git push
