@@ -1,0 +1,40 @@
+name: Sync US Prices
+
+on:
+  schedule:
+    # Lines up with the local BST screenshot schedule (05:15, 11:15, 17:15, 23:15 local),
+    # running ~15 min earlier so fresh data is ready before each screenshot check.
+    # GitHub Actions cron is always UTC. During BST (UTC+1, late Mar-late Oct) these are
+    # 04:00/10:00/16:00/22:00 UTC = 05:00/11:00/17:00/23:00 local. During GMT (UTC+0,
+    # late Oct-late Mar) they'll run an hour "later" relative to local time - a few hours'
+    # staleness on a price screenshot isn't a real issue, but worth knowing about.
+    - cron: '0 4,10,16,22 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync prices from Shopify
+        run: node scripts/sync-prices.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "price-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add price-history.json
+          if git diff --cached --quiet; then
+            echo "No price changes."
+          else
+            git commit -m "Automated price sync $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
