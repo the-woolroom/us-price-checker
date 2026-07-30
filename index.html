@@ -661,10 +661,10 @@ function renderTable() {
   });
 
   data.sort((a, b) => {
+    if (sort === 'changed_at') return new Date(b.changedAt) - new Date(a.changedAt);
     if (sort === 'sku')        return a.sku.localeCompare(b.sku);
     if (sort === 'product')    return a.product.localeCompare(b.product);
     if (sort === 'price')      return b.price - a.price;
-    if (sort === 'changed_at') return new Date(b.changedAt) - new Date(a.changedAt);
     if (sort === 'pct')        return Math.abs(b.pct ?? 0) - Math.abs(a.pct ?? 0);
     return 0;
   });
