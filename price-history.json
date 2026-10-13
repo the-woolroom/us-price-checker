@@ -407,6 +407,11 @@
       "price": 150,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 112.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0172FG": [
@@ -439,6 +444,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0173FG": [
@@ -471,6 +481,11 @@
       "price": 240,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 180,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0171LA": [
@@ -503,6 +518,11 @@
       "price": 150,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 112.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0172LA": [
@@ -535,6 +555,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0173LA": [
@@ -567,6 +592,11 @@
       "price": 240,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 180,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0174FG": [
@@ -599,6 +629,11 @@
       "price": 140,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 105,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0175FG": [
@@ -631,6 +666,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0176FG": [
@@ -663,6 +703,11 @@
       "price": 230,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 172.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0174LA": [
@@ -695,6 +740,11 @@
       "price": 140,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 105,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0175LA": [
@@ -727,6 +777,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0176LA": [
@@ -759,6 +814,11 @@
       "price": 230,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 172.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0174MB": [
@@ -791,6 +851,11 @@
       "price": 140,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 105,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0175MB": [
@@ -823,6 +888,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0176MB": [
@@ -855,6 +925,11 @@
       "price": 230,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 172.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0174CW": [
@@ -887,6 +962,11 @@
       "price": 140,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 105,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0175CW": [
@@ -919,6 +999,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0176CW": [
@@ -951,6 +1036,11 @@
       "price": 230,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 172.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0171MB": [
@@ -983,6 +1073,11 @@
       "price": 150,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 112.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0172MB": [
@@ -1015,6 +1110,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0173MB": [
@@ -1047,6 +1147,11 @@
       "price": 240,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 180,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0171CW": [
@@ -1079,6 +1184,11 @@
       "price": 150,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 112.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0172CW": [
@@ -1111,6 +1221,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0173CW": [
@@ -1143,6 +1258,11 @@
       "price": 240,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 180,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0168FG": [
@@ -1175,6 +1295,11 @@
       "price": 220,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 165,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0169FG": [
@@ -1207,6 +1332,11 @@
       "price": 275,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 206.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0170FG": [
@@ -1239,6 +1369,11 @@
       "price": 330,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 247.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0168LA": [
@@ -1271,6 +1406,11 @@
       "price": 220,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 165,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0169LA": [
@@ -1303,6 +1443,11 @@
       "price": 275,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 206.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0170LA": [
@@ -1335,6 +1480,11 @@
       "price": 330,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 247.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0168MB": [
@@ -1367,6 +1517,11 @@
       "price": 220,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 165,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0169MB": [
@@ -1399,6 +1554,11 @@
       "price": 275,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 206.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0170MB": [
@@ -1431,6 +1591,11 @@
       "price": 330,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 247.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0168CW": [
@@ -1463,6 +1628,11 @@
       "price": 220,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 165,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0169CW": [
@@ -1495,6 +1665,11 @@
       "price": 275,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 206.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0170CW": [
@@ -1527,6 +1702,11 @@
       "price": 330,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 247.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0165FG": [
@@ -1559,6 +1739,11 @@
       "price": 30,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 22.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0166FG": [
@@ -1591,6 +1776,11 @@
       "price": 35,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 26.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0167FG": [
@@ -1623,6 +1813,11 @@
       "price": 40,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 30,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0165LA": [
@@ -1655,6 +1850,11 @@
       "price": 30,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 22.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0166LA": [
@@ -1687,6 +1887,11 @@
       "price": 35,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 26.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0167LA": [
@@ -1719,6 +1924,11 @@
       "price": 40,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 30,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0165MB": [
@@ -1751,6 +1961,11 @@
       "price": 30,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 22.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0166MB": [
@@ -1783,6 +1998,11 @@
       "price": 35,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 26.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0167MB": [
@@ -1815,6 +2035,11 @@
       "price": 40,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 30,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0165CW": [
@@ -1847,6 +2072,11 @@
       "price": 30,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 22.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0166CW": [
@@ -1879,6 +2109,11 @@
       "price": 35,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 26.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "BLM0167CW": [
@@ -1911,6 +2146,11 @@
       "price": 40,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 30,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50004GFGNA": [
@@ -1943,6 +2183,11 @@
       "price": 90,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 67.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50006GFGNA": [
@@ -1975,6 +2220,11 @@
       "price": 125,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 93.75,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50007GFGNA": [
@@ -2007,6 +2257,11 @@
       "price": 135,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 101.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50004GCHNA": [
@@ -2039,6 +2294,11 @@
       "price": 90,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 67.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50006GCHNA": [
@@ -2071,6 +2331,11 @@
       "price": 125,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 93.75,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50007GCHNA": [
@@ -2103,6 +2368,11 @@
       "price": 135,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 101.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50004GMBNA": [
@@ -2135,6 +2405,11 @@
       "price": 90,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 67.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50006GMBNA": [
@@ -2167,6 +2442,11 @@
       "price": 125,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 93.75,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50007GMBNA": [
@@ -2199,6 +2479,11 @@
       "price": 135,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 101.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50042GFG": [
@@ -2231,6 +2516,11 @@
       "price": 95,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 71.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50045GFG": [
@@ -2263,6 +2553,11 @@
       "price": 120,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 90,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50046GFG": [
@@ -2295,6 +2590,11 @@
       "price": 135,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 101.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50042GCH": [
@@ -2327,6 +2627,11 @@
       "price": 95,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 71.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50045GCH": [
@@ -2359,6 +2664,11 @@
       "price": 120,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 90,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50046GCH": [
@@ -2391,6 +2701,11 @@
       "price": 135,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 101.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50042GMB": [
@@ -2423,6 +2738,11 @@
       "price": 95,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 71.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50045GMB": [
@@ -2455,6 +2775,11 @@
       "price": 120,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 90,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50046GMB": [
@@ -2487,6 +2812,11 @@
       "price": 135,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 101.25,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50036GFG": [
@@ -2519,6 +2849,11 @@
       "price": 130,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 97.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50037GFG": [
@@ -2551,6 +2886,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50038GFG": [
@@ -2583,6 +2923,11 @@
       "price": 190,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 142.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50036GCH": [
@@ -2615,6 +2960,11 @@
       "price": 130,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 97.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50037GCH": [
@@ -2647,6 +2997,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50038GCH": [
@@ -2679,6 +3034,11 @@
       "price": 190,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 142.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50036GMB": [
@@ -2711,6 +3071,11 @@
       "price": 130,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 97.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50037GMB": [
@@ -2743,6 +3108,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50038GMB": [
@@ -2775,6 +3145,11 @@
       "price": 190,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 142.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50030GFG": [
@@ -2807,6 +3182,11 @@
       "price": 20,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 15,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50031GFG": [
@@ -2839,6 +3219,11 @@
       "price": 25,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 18.75,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50032GFG": [
@@ -2871,6 +3256,11 @@
       "price": 30,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 22.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50030GCH": [
@@ -2903,6 +3293,11 @@
       "price": 20,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 15,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50031GCH": [
@@ -2935,6 +3330,11 @@
       "price": 25,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 18.75,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50032GCH": [
@@ -2967,6 +3367,11 @@
       "price": 30,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 22.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50030GMB": [
@@ -2999,6 +3404,11 @@
       "price": 20,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 15,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50031GMB": [
@@ -3031,6 +3441,11 @@
       "price": 25,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 18.75,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "50032GMB": [
@@ -3063,6 +3478,11 @@
       "price": 30,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 22.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "TH00059NA": [
@@ -3109,6 +3529,11 @@
       "price": 150,
       "currency": "USD",
       "ts": "2026-06-23T09:24:36.740Z"
+    },
+    {
+      "price": 112.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "TH00049NA": [
@@ -3141,6 +3566,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "x-redo": [
@@ -3202,6 +3632,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "WW1001NA": [
@@ -3234,6 +3669,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "WW1003NA": [
@@ -3266,6 +3706,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "WW1005NA": [
@@ -3298,6 +3743,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "WW1002NA": [
@@ -3330,6 +3780,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "WW1006NA": [
@@ -3362,6 +3817,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "WW1004NA": [
@@ -3394,6 +3854,11 @@
       "price": 200,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 150,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "10719PENA": [
@@ -7566,6 +8031,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "12612TFNA": [
@@ -7637,6 +8107,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "10230GYNA": [
@@ -7669,6 +8144,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "TH00051NA": [
@@ -7701,6 +8181,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "TH00052NA": [
@@ -7733,6 +8218,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "10381NANA": [
@@ -7765,6 +8255,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "TH00050NA": [
@@ -7797,6 +8292,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "13042PLNA": [
@@ -7829,6 +8329,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "13040GRNA": [
@@ -7861,6 +8366,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "13042BLNA": [
@@ -7893,6 +8403,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "13041BENA": [
@@ -7925,6 +8440,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "13037GINA": [
@@ -7957,6 +8477,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "12590TENA": [
@@ -7989,6 +8514,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "12589TLNA": [
@@ -8021,6 +8551,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "12587GYNA": [
@@ -8053,6 +8588,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "12591NANA": [
@@ -8085,6 +8625,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "13038YBNA": [
@@ -8117,6 +8662,11 @@
       "price": 160,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 120,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "10269NANA": [
@@ -8200,6 +8750,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "13015HENA": [
@@ -8249,6 +8804,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "13013BRNA": [
@@ -8281,6 +8841,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "13010GRNA": [
@@ -8313,6 +8878,11 @@
       "price": 170,
       "currency": "USD",
       "ts": "2026-10-01T10:41:49.618Z"
+    },
+    {
+      "price": 127.5,
+      "currency": "USD",
+      "ts": "2026-10-13T11:22:21.414Z"
     }
   ],
   "USRECYCLESERVICE": [
@@ -9506,14 +10076,14 @@
       "sku": "13014SUNA",
       "product": "Harlequin Shetland Wool Throw - Sunshine",
       "variant": "",
-      "price": 150,
+      "price": 112.5,
       "rrp": 150,
       "currency": "USD",
       "prevPrice": 150,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-06-23T09:24:36.740Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "en-us-products-en-us-harlequin-shetland-wool-throw-sunshine",
       "variantId": 54397839311233,
       "url": "https://www.thewoolroom.com/en-us/products/en-us-products-en-us-harlequin-shetland-wool-throw-sunshine?variant=54397839311233"
@@ -9529,7 +10099,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060243739009,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060243739009"
@@ -9545,7 +10115,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060243771777,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060243771777"
@@ -9561,7 +10131,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060243804545,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060243804545"
@@ -9577,7 +10147,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060243837313,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060243837313"
@@ -9593,7 +10163,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060246262145,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060246262145"
@@ -9609,7 +10179,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060246294913,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060246294913"
@@ -9618,14 +10188,14 @@
       "sku": "13041BENA",
       "product": "Lilly Herringbone Pure New Wool Throw",
       "variant": "Beige",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "lilly-herringbone-pure-new-wool-throw",
       "variantId": 54397839933825,
       "url": "https://www.thewoolroom.com/en-us/products/lilly-herringbone-pure-new-wool-throw?variant=54397839933825"
@@ -9634,14 +10204,14 @@
       "sku": "13042BLNA",
       "product": "Lilly Herringbone Pure New Wool Throw",
       "variant": "Blue",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "lilly-herringbone-pure-new-wool-throw",
       "variantId": 54397839999361,
       "url": "https://www.thewoolroom.com/en-us/products/lilly-herringbone-pure-new-wool-throw?variant=54397839999361"
@@ -9650,14 +10220,14 @@
       "sku": "13040GRNA",
       "product": "Lilly Herringbone Pure New Wool Throw",
       "variant": "Grey",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "lilly-herringbone-pure-new-wool-throw",
       "variantId": 54397840032129,
       "url": "https://www.thewoolroom.com/en-us/products/lilly-herringbone-pure-new-wool-throw?variant=54397840032129"
@@ -9666,14 +10236,14 @@
       "sku": "13042PLNA",
       "product": "Lilly Herringbone Pure New Wool Throw",
       "variant": "Plum",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "lilly-herringbone-pure-new-wool-throw",
       "variantId": 54397840064897,
       "url": "https://www.thewoolroom.com/en-us/products/lilly-herringbone-pure-new-wool-throw?variant=54397840064897"
@@ -9682,14 +10252,14 @@
       "sku": "12591NANA",
       "product": "Greta Herringbone Wool Blanket",
       "variant": "Beige",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "greta-herringbone-wool-blanket-1",
       "variantId": 54397839704449,
       "url": "https://www.thewoolroom.com/en-us/products/greta-herringbone-wool-blanket-1?variant=54397839704449"
@@ -9698,14 +10268,14 @@
       "sku": "12587GYNA",
       "product": "Greta Herringbone Wool Blanket",
       "variant": "Grey",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "greta-herringbone-wool-blanket-1",
       "variantId": 54397839769985,
       "url": "https://www.thewoolroom.com/en-us/products/greta-herringbone-wool-blanket-1?variant=54397839769985"
@@ -9714,14 +10284,14 @@
       "sku": "12589TLNA",
       "product": "Greta Herringbone Wool Blanket",
       "variant": "Teal",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "greta-herringbone-wool-blanket-1",
       "variantId": 54397839802753,
       "url": "https://www.thewoolroom.com/en-us/products/greta-herringbone-wool-blanket-1?variant=54397839802753"
@@ -9730,14 +10300,14 @@
       "sku": "12590TENA",
       "product": "Greta Herringbone Wool Blanket",
       "variant": "Terracotta",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "greta-herringbone-wool-blanket-1",
       "variantId": 54397839835521,
       "url": "https://www.thewoolroom.com/en-us/products/greta-herringbone-wool-blanket-1?variant=54397839835521"
@@ -9746,14 +10316,14 @@
       "sku": "13003DENA",
       "product": "Herringbone Shetland Wool Throw",
       "variant": "Duck Egg",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397840720257,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397840720257"
@@ -9762,14 +10332,14 @@
       "sku": "13010GRNA",
       "product": "Herringbone Shetland Wool Throw",
       "variant": "Apple",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397838983553,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397838983553"
@@ -9778,14 +10348,14 @@
       "sku": "13013BRNA",
       "product": "Herringbone Shetland Wool Throw",
       "variant": "Berry",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397839016321,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397839016321"
@@ -9794,14 +10364,14 @@
       "sku": "13011PKNA",
       "product": "Herringbone Shetland Wool Throw",
       "variant": "Fuschia",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397839049089,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397839049089"
@@ -9810,14 +10380,14 @@
       "sku": "13012LSNA",
       "product": "Herringbone Shetland Wool Throw",
       "variant": "Sage",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397839278465,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397839278465"
@@ -9826,14 +10396,14 @@
       "sku": "13038YBNA",
       "product": "Wild and Wool Throw",
       "variant": "Bee",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397839638913,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397839638913"
@@ -9842,14 +10412,14 @@
       "sku": "TH00054NA",
       "product": "Wild and Wool Throw",
       "variant": "Deer",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840523649,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840523649"
@@ -9858,14 +10428,14 @@
       "sku": "TH00049NA",
       "product": "Wild and Wool Throw",
       "variant": "Fox",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840490881,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840490881"
@@ -9874,14 +10444,14 @@
       "sku": "13037GINA",
       "product": "Wild and Wool Throw",
       "variant": "Highland Cow",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397839901057,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397839901057"
@@ -9890,14 +10460,14 @@
       "sku": "TH00050NA",
       "product": "Wild and Wool Throw",
       "variant": "Horse - Latte",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840130433,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840130433"
@@ -9906,14 +10476,14 @@
       "sku": "TH00051NA",
       "product": "Wild and Wool Throw",
       "variant": "Horse - Stone",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840294273,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840294273"
@@ -9922,14 +10492,14 @@
       "sku": "10381NANA",
       "product": "Wild and Wool Throw",
       "variant": "Lamb - Latte",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840195969,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840195969"
@@ -9938,14 +10508,14 @@
       "sku": "10230GYNA",
       "product": "Wild and Wool Throw",
       "variant": "Lamb - Stone",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840327041,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840327041"
@@ -9954,14 +10524,14 @@
       "sku": "TH00052NA",
       "product": "Wild and Wool Throw",
       "variant": "Rabbit",
-      "price": 160,
+      "price": 120,
       "rrp": 160,
       "currency": "USD",
       "prevPrice": 160,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840228737,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840228737"
@@ -9970,14 +10540,14 @@
       "sku": "BLM0171FG",
       "product": "Mariana Linen Blend Fitted Sheet - Forest Green",
       "variant": "Forest Green / Twin (39x75 inch)",
-      "price": 150,
+      "price": 112.5,
       "rrp": 150,
       "currency": "USD",
       "prevPrice": 150,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-forest-green",
       "variantId": 55768280203649,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-forest-green?variant=55768280203649"
@@ -9986,14 +10556,14 @@
       "sku": "BLM0172FG",
       "product": "Mariana Linen Blend Fitted Sheet - Forest Green",
       "variant": "Forest Green / Queen (60x80 inch)",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-forest-green",
       "variantId": 55768280236417,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-forest-green?variant=55768280236417"
@@ -10002,14 +10572,14 @@
       "sku": "BLM0173FG",
       "product": "Mariana Linen Blend Fitted Sheet - Forest Green",
       "variant": "Forest Green / King (76x80 inch)",
-      "price": 240,
+      "price": 180,
       "rrp": 240,
       "currency": "USD",
       "prevPrice": 240,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-forest-green",
       "variantId": 55768280269185,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-forest-green?variant=55768280269185"
@@ -10018,14 +10588,14 @@
       "sku": "BLM0171LA",
       "product": "Mariana Linen Blend Fitted Sheet - Latte",
       "variant": "Latte / Twin (39x75 inch)",
-      "price": 150,
+      "price": 112.5,
       "rrp": 150,
       "currency": "USD",
       "prevPrice": 150,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte-us",
       "variantId": 55768277647745,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-latte-us?variant=55768277647745"
@@ -10034,14 +10604,14 @@
       "sku": "BLM0172LA",
       "product": "Mariana Linen Blend Fitted Sheet - Latte",
       "variant": "Latte / Queen (60x80 inch)",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte-us",
       "variantId": 55768277680513,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-latte-us?variant=55768277680513"
@@ -10050,14 +10620,14 @@
       "sku": "BLM0173LA",
       "product": "Mariana Linen Blend Fitted Sheet - Latte",
       "variant": "Latte / King (76x80 inch)",
-      "price": 240,
+      "price": 180,
       "rrp": 240,
       "currency": "USD",
       "prevPrice": 240,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte-us",
       "variantId": 55768277713281,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-latte-us?variant=55768277713281"
@@ -10066,14 +10636,14 @@
       "sku": "BLM0174FG",
       "product": "Mariana Linen Blend Flat Sheet - Forest Green",
       "variant": "Forest Green / Twin / Twin XL (71x102 inch)",
-      "price": 140,
+      "price": 105,
       "rrp": 140,
       "currency": "USD",
       "prevPrice": 140,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-forest-green",
       "variantId": 55768276009345,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-forest-green?variant=55768276009345"
@@ -10082,14 +10652,14 @@
       "sku": "BLM0175FG",
       "product": "Mariana Linen Blend Flat Sheet - Forest Green",
       "variant": "Forest Green / Queen / Full (102x106 inch)",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-forest-green",
       "variantId": 55768276042113,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-forest-green?variant=55768276042113"
@@ -10098,14 +10668,14 @@
       "sku": "BLM0176FG",
       "product": "Mariana Linen Blend Flat Sheet - Forest Green",
       "variant": "Forest Green / King (118x106 inch)",
-      "price": 230,
+      "price": 172.5,
       "rrp": 230,
       "currency": "USD",
       "prevPrice": 230,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-forest-green",
       "variantId": 55768276074881,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-forest-green?variant=55768276074881"
@@ -10114,14 +10684,14 @@
       "sku": "BLM0174LA",
       "product": "Mariana Linen Blend Flat Sheet - Latte",
       "variant": "Latte / Twin / Twin XL (71x102 inch)",
-      "price": 140,
+      "price": 105,
       "rrp": 140,
       "currency": "USD",
       "prevPrice": 140,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-latte",
       "variantId": 55768253890945,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-latte?variant=55768253890945"
@@ -10130,14 +10700,14 @@
       "sku": "BLM0175LA",
       "product": "Mariana Linen Blend Flat Sheet - Latte",
       "variant": "Latte / Queen / Full (102x106 inch)",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-latte",
       "variantId": 55768253923713,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-latte?variant=55768253923713"
@@ -10146,14 +10716,14 @@
       "sku": "BLM0176LA",
       "product": "Mariana Linen Blend Flat Sheet - Latte",
       "variant": "Latte / King (118x106 inch)",
-      "price": 230,
+      "price": 172.5,
       "rrp": 230,
       "currency": "USD",
       "prevPrice": 230,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-latte",
       "variantId": 55768253956481,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-latte?variant=55768253956481"
@@ -10162,14 +10732,14 @@
       "sku": "BLM0174MB",
       "product": "Mariana Linen Blend Flat Sheet - Midnight Blue",
       "variant": "Midnight Blue / Twin / Twin XL (71x102 inch)",
-      "price": 140,
+      "price": 105,
       "rrp": 140,
       "currency": "USD",
       "prevPrice": 140,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-midnight-blue",
       "variantId": 55768238326145,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-midnight-blue?variant=55768238326145"
@@ -10178,14 +10748,14 @@
       "sku": "BLM0175MB",
       "product": "Mariana Linen Blend Flat Sheet - Midnight Blue",
       "variant": "Midnight Blue / Queen / Full (102x106 inch)",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-midnight-blue",
       "variantId": 55768238358913,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-midnight-blue?variant=55768238358913"
@@ -10194,14 +10764,14 @@
       "sku": "BLM0176MB",
       "product": "Mariana Linen Blend Flat Sheet - Midnight Blue",
       "variant": "Midnight Blue / King (118x106 inch)",
-      "price": 230,
+      "price": 172.5,
       "rrp": 230,
       "currency": "USD",
       "prevPrice": 230,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-midnight-blue",
       "variantId": 55768238391681,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-midnight-blue?variant=55768238391681"
@@ -10210,14 +10780,14 @@
       "sku": "BLM0174CW",
       "product": "Mariana Linen Blend Flat Sheet - Cloud White",
       "variant": "Cloud White / Twin / Twin XL (71x102 inch)",
-      "price": 140,
+      "price": 105,
       "rrp": 140,
       "currency": "USD",
       "prevPrice": 140,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-cloud-white",
       "variantId": 55768114921857,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-cloud-white?variant=55768114921857"
@@ -10226,14 +10796,14 @@
       "sku": "BLM0175CW",
       "product": "Mariana Linen Blend Flat Sheet - Cloud White",
       "variant": "Cloud White / Queen / Full (102x106 inch)",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-cloud-white",
       "variantId": 55768114954625,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-cloud-white?variant=55768114954625"
@@ -10242,14 +10812,14 @@
       "sku": "BLM0176CW",
       "product": "Mariana Linen Blend Flat Sheet - Cloud White",
       "variant": "Cloud White / King (118x106 inch)",
-      "price": 230,
+      "price": 172.5,
       "rrp": 230,
       "currency": "USD",
       "prevPrice": 230,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-flat-sheet-cloud-white",
       "variantId": 55768114987393,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-cloud-white?variant=55768114987393"
@@ -10258,14 +10828,14 @@
       "sku": "BLM0171MB",
       "product": "Mariana Linen Blend Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Twin (39x75 inch)",
-      "price": 150,
+      "price": 112.5,
       "rrp": 150,
       "currency": "USD",
       "prevPrice": 150,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue-us",
       "variantId": 55760566976897,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-midnight-blue-us?variant=55760566976897"
@@ -10274,14 +10844,14 @@
       "sku": "BLM0172MB",
       "product": "Mariana Linen Blend Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Queen (60x80 inch)",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue-us",
       "variantId": 55760567009665,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-midnight-blue-us?variant=55760567009665"
@@ -10290,14 +10860,14 @@
       "sku": "BLM0173MB",
       "product": "Mariana Linen Blend Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / King (76x80 inch)",
-      "price": 240,
+      "price": 180,
       "rrp": 240,
       "currency": "USD",
       "prevPrice": 240,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue-us",
       "variantId": 55760567042433,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-midnight-blue-us?variant=55760567042433"
@@ -10306,14 +10876,14 @@
       "sku": "BLM0171CW",
       "product": "Mariana Linen Blend Fitted Sheet - Cloud White",
       "variant": "Cloud White / Twin (39x75 inch)",
-      "price": 150,
+      "price": 112.5,
       "rrp": 150,
       "currency": "USD",
       "prevPrice": 150,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white-us",
       "variantId": 55760558883201,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-cloud-white-us?variant=55760558883201"
@@ -10322,14 +10892,14 @@
       "sku": "BLM0172CW",
       "product": "Mariana Linen Blend Fitted Sheet - Cloud White",
       "variant": "Cloud White / Queen (60x80 inch)",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white-us",
       "variantId": 55760558915969,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-cloud-white-us?variant=55760558915969"
@@ -10338,14 +10908,14 @@
       "sku": "BLM0173CW",
       "product": "Mariana Linen Blend Fitted Sheet - Cloud White",
       "variant": "Cloud White / King (76x80 inch)",
-      "price": 240,
+      "price": 180,
       "rrp": 240,
       "currency": "USD",
       "prevPrice": 240,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white-us",
       "variantId": 55760558948737,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-cloud-white-us?variant=55760558948737"
@@ -10354,14 +10924,14 @@
       "sku": "BLM0168FG",
       "product": "Mariana Linen Blend Comforter Cover - Forest Green",
       "variant": "Forest Green / Twin (66X86 inch)",
-      "price": 220,
+      "price": 165,
       "rrp": 220,
       "currency": "USD",
       "prevPrice": 220,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-forest-green",
       "variantId": 55760518218113,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-forest-green?variant=55760518218113"
@@ -10370,14 +10940,14 @@
       "sku": "BLM0169FG",
       "product": "Mariana Linen Blend Comforter Cover - Forest Green",
       "variant": "Forest Green / Queen/Full (86X86 inch)",
-      "price": 275,
+      "price": 206.25,
       "rrp": 275,
       "currency": "USD",
       "prevPrice": 275,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-forest-green",
       "variantId": 55760518250881,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-forest-green?variant=55760518250881"
@@ -10386,14 +10956,14 @@
       "sku": "BLM0170FG",
       "product": "Mariana Linen Blend Comforter Cover - Forest Green",
       "variant": "Forest Green / King (100X90 inch)",
-      "price": 330,
+      "price": 247.5,
       "rrp": 330,
       "currency": "USD",
       "prevPrice": 330,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-forest-green",
       "variantId": 55760518283649,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-forest-green?variant=55760518283649"
@@ -10402,14 +10972,14 @@
       "sku": "BLM0168LA",
       "product": "Mariana Linen Blend Comforter Cover - Latte",
       "variant": "Latte / Twin (66X86 inch)",
-      "price": 220,
+      "price": 165,
       "rrp": 220,
       "currency": "USD",
       "prevPrice": 220,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-latte",
       "variantId": 55760502915457,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-latte?variant=55760502915457"
@@ -10418,14 +10988,14 @@
       "sku": "BLM0169LA",
       "product": "Mariana Linen Blend Comforter Cover - Latte",
       "variant": "Latte / Queen/Full (86X86 inch)",
-      "price": 275,
+      "price": 206.25,
       "rrp": 275,
       "currency": "USD",
       "prevPrice": 275,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-latte",
       "variantId": 55760502948225,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-latte?variant=55760502948225"
@@ -10434,14 +11004,14 @@
       "sku": "BLM0170LA",
       "product": "Mariana Linen Blend Comforter Cover - Latte",
       "variant": "Latte / King (100X90 inch)",
-      "price": 330,
+      "price": 247.5,
       "rrp": 330,
       "currency": "USD",
       "prevPrice": 330,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-latte",
       "variantId": 55760502980993,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-latte?variant=55760502980993"
@@ -10450,14 +11020,14 @@
       "sku": "BLM0168MB",
       "product": "Mariana Linen Blend Comforter Cover - Midnight Blue",
       "variant": "Midnight Blue / Twin (66X86 inch)",
-      "price": 220,
+      "price": 165,
       "rrp": 220,
       "currency": "USD",
       "prevPrice": 220,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-midnight-blue",
       "variantId": 55760498524545,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-midnight-blue?variant=55760498524545"
@@ -10466,14 +11036,14 @@
       "sku": "BLM0169MB",
       "product": "Mariana Linen Blend Comforter Cover - Midnight Blue",
       "variant": "Midnight Blue / Queen/Full (86X86 inch)",
-      "price": 275,
+      "price": 206.25,
       "rrp": 275,
       "currency": "USD",
       "prevPrice": 275,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-midnight-blue",
       "variantId": 55760498557313,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-midnight-blue?variant=55760498557313"
@@ -10482,14 +11052,14 @@
       "sku": "BLM0170MB",
       "product": "Mariana Linen Blend Comforter Cover - Midnight Blue",
       "variant": "Midnight Blue / King (100X90 inch)",
-      "price": 330,
+      "price": 247.5,
       "rrp": 330,
       "currency": "USD",
       "prevPrice": 330,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-midnight-blue",
       "variantId": 55760498590081,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-midnight-blue?variant=55760498590081"
@@ -10498,14 +11068,14 @@
       "sku": "BLM0168CW",
       "product": "Mariana Linen Blend Comforter Cover - Cloud White",
       "variant": "Cloud White / Twin (66X86 inch)",
-      "price": 220,
+      "price": 165,
       "rrp": 220,
       "currency": "USD",
       "prevPrice": 220,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-cloud-white",
       "variantId": 55760492134785,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-cloud-white?variant=55760492134785"
@@ -10514,14 +11084,14 @@
       "sku": "BLM0169CW",
       "product": "Mariana Linen Blend Comforter Cover - Cloud White",
       "variant": "Cloud White / Queen/Full (86X86 inch)",
-      "price": 275,
+      "price": 206.25,
       "rrp": 275,
       "currency": "USD",
       "prevPrice": 275,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-cloud-white",
       "variantId": 55760492167553,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-cloud-white?variant=55760492167553"
@@ -10530,14 +11100,14 @@
       "sku": "BLM0170CW",
       "product": "Mariana Linen Blend Comforter Cover - Cloud White",
       "variant": "Cloud White / King (100X90 inch)",
-      "price": 330,
+      "price": 247.5,
       "rrp": 330,
       "currency": "USD",
       "prevPrice": 330,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-comforter-cover-cloud-white",
       "variantId": 55760492200321,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-cloud-white?variant=55760492200321"
@@ -10546,14 +11116,14 @@
       "sku": "BLM0165FG",
       "product": "Mariana Linen Blend Pillowcase - Forest Green",
       "variant": "Forest Green / Standard (20 inch x 26 inch)",
-      "price": 30,
+      "price": 22.5,
       "rrp": 30,
       "currency": "USD",
       "prevPrice": 30,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-forest-green",
       "variantId": 55760288645505,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-forest-green?variant=55760288645505"
@@ -10562,14 +11132,14 @@
       "sku": "BLM0166FG",
       "product": "Mariana Linen Blend Pillowcase - Forest Green",
       "variant": "Forest Green / Queen (20 inch x 30 inch)",
-      "price": 35,
+      "price": 26.25,
       "rrp": 35,
       "currency": "USD",
       "prevPrice": 35,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-forest-green",
       "variantId": 55760288678273,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-forest-green?variant=55760288678273"
@@ -10578,14 +11148,14 @@
       "sku": "BLM0167FG",
       "product": "Mariana Linen Blend Pillowcase - Forest Green",
       "variant": "Forest Green / King (20 inch x 36 inch)",
-      "price": 40,
+      "price": 30,
       "rrp": 40,
       "currency": "USD",
       "prevPrice": 40,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-forest-green",
       "variantId": 55760288711041,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-forest-green?variant=55760288711041"
@@ -10594,14 +11164,14 @@
       "sku": "BLM0165LA",
       "product": "Mariana Linen Blend Pillowcase - Latte",
       "variant": "Latte / Standard (20 inch x 26 inch)",
-      "price": 30,
+      "price": 22.5,
       "rrp": 30,
       "currency": "USD",
       "prevPrice": 30,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-latte",
       "variantId": 55760250732929,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-latte?variant=55760250732929"
@@ -10610,14 +11180,14 @@
       "sku": "BLM0166LA",
       "product": "Mariana Linen Blend Pillowcase - Latte",
       "variant": "Latte / Queen (20 inch x 30 inch)",
-      "price": 35,
+      "price": 26.25,
       "rrp": 35,
       "currency": "USD",
       "prevPrice": 35,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-latte",
       "variantId": 55760250765697,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-latte?variant=55760250765697"
@@ -10626,14 +11196,14 @@
       "sku": "BLM0167LA",
       "product": "Mariana Linen Blend Pillowcase - Latte",
       "variant": "Latte / King (20 inch x 36 inch)",
-      "price": 40,
+      "price": 30,
       "rrp": 40,
       "currency": "USD",
       "prevPrice": 40,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-latte",
       "variantId": 55760250798465,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-latte?variant=55760250798465"
@@ -10642,14 +11212,14 @@
       "sku": "BLM0165MB",
       "product": "Mariana Linen Blend Pillowcase - Midnight Blue",
       "variant": "Midnight Blue / Standard (20 inch x 26 inch)",
-      "price": 30,
+      "price": 22.5,
       "rrp": 30,
       "currency": "USD",
       "prevPrice": 30,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-midnight-blue",
       "variantId": 55760246538625,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-midnight-blue?variant=55760246538625"
@@ -10658,14 +11228,14 @@
       "sku": "BLM0166MB",
       "product": "Mariana Linen Blend Pillowcase - Midnight Blue",
       "variant": "Midnight Blue / Queen (20 inch x 30 inch)",
-      "price": 35,
+      "price": 26.25,
       "rrp": 35,
       "currency": "USD",
       "prevPrice": 35,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-midnight-blue",
       "variantId": 55760246571393,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-midnight-blue?variant=55760246571393"
@@ -10674,14 +11244,14 @@
       "sku": "BLM0167MB",
       "product": "Mariana Linen Blend Pillowcase - Midnight Blue",
       "variant": "Midnight Blue / King (20 inch x 36 inch)",
-      "price": 40,
+      "price": 30,
       "rrp": 40,
       "currency": "USD",
       "prevPrice": 40,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-midnight-blue",
       "variantId": 55760246604161,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-midnight-blue?variant=55760246604161"
@@ -10690,14 +11260,14 @@
       "sku": "BLM0165CW",
       "product": "Mariana Linen Blend Pillowcase - Cloud White",
       "variant": "Cloud White / Standard (20 inch x 26 inch)",
-      "price": 30,
+      "price": 22.5,
       "rrp": 30,
       "currency": "USD",
       "prevPrice": 30,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-cloud-white",
       "variantId": 55760096166273,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-cloud-white?variant=55760096166273"
@@ -10706,14 +11276,14 @@
       "sku": "BLM0166CW",
       "product": "Mariana Linen Blend Pillowcase - Cloud White",
       "variant": "Cloud White / Queen (20 inch x 30 inch)",
-      "price": 35,
+      "price": 26.25,
       "rrp": 35,
       "currency": "USD",
       "prevPrice": 35,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-cloud-white",
       "variantId": 55760096199041,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-cloud-white?variant=55760096199041"
@@ -10722,14 +11292,14 @@
       "sku": "BLM0167CW",
       "product": "Mariana Linen Blend Pillowcase - Cloud White",
       "variant": "Cloud White / King (20 inch x 36 inch)",
-      "price": 40,
+      "price": 30,
       "rrp": 40,
       "currency": "USD",
       "prevPrice": 40,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "mariana-linen-blend-pillowcase-cloud-white",
       "variantId": 55760096231809,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-cloud-white?variant=55760096231809"
@@ -10738,14 +11308,14 @@
       "sku": "50004GFGNA",
       "product": "Arinta Organic Cotton Flat Sheet - Forest Green",
       "variant": "Forest Green / Twin/Twin XL  (71 x 102 inches)",
-      "price": 90,
+      "price": 67.5,
       "rrp": 90,
       "currency": "USD",
       "prevPrice": 90,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-flat-sheet-forest-green",
       "variantId": 55759956869505,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-forest-green?variant=55759956869505"
@@ -10754,14 +11324,14 @@
       "sku": "50006GFGNA",
       "product": "Arinta Organic Cotton Flat Sheet - Forest Green",
       "variant": "Forest Green / Queen / Full (102 x 106 inches)",
-      "price": 125,
+      "price": 93.75,
       "rrp": 125,
       "currency": "USD",
       "prevPrice": 125,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-flat-sheet-forest-green",
       "variantId": 55759956902273,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-forest-green?variant=55759956902273"
@@ -10770,14 +11340,14 @@
       "sku": "50007GFGNA",
       "product": "Arinta Organic Cotton Flat Sheet - Forest Green",
       "variant": "Forest Green / King (118 x 106 inches)",
-      "price": 135,
+      "price": 101.25,
       "rrp": 135,
       "currency": "USD",
       "prevPrice": 135,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-flat-sheet-forest-green",
       "variantId": 55759956935041,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-forest-green?variant=55759956935041"
@@ -10786,14 +11356,14 @@
       "sku": "50004GCHNA",
       "product": "Arinta Organic Cotton Flat Sheet - Charcoal",
       "variant": "Charcoal / Twin/Twin XL  (71 x 102 inches)",
-      "price": 90,
+      "price": 67.5,
       "rrp": 90,
       "currency": "USD",
       "prevPrice": 90,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-flat-sheet-charcoal",
       "variantId": 55759883895169,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-charcoal?variant=55759883895169"
@@ -10802,14 +11372,14 @@
       "sku": "50006GCHNA",
       "product": "Arinta Organic Cotton Flat Sheet - Charcoal",
       "variant": "Charcoal / Queen / Full (102 x 106 inches)",
-      "price": 125,
+      "price": 93.75,
       "rrp": 125,
       "currency": "USD",
       "prevPrice": 125,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-flat-sheet-charcoal",
       "variantId": 55759883927937,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-charcoal?variant=55759883927937"
@@ -10818,14 +11388,14 @@
       "sku": "50007GCHNA",
       "product": "Arinta Organic Cotton Flat Sheet - Charcoal",
       "variant": "Charcoal / King (118 x 106 inches)",
-      "price": 135,
+      "price": 101.25,
       "rrp": 135,
       "currency": "USD",
       "prevPrice": 135,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-flat-sheet-charcoal",
       "variantId": 55759883960705,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-charcoal?variant=55759883960705"
@@ -10834,14 +11404,14 @@
       "sku": "50004GMBNA",
       "product": "Arinta Organic Cotton Flat Sheet - Midnight Blue",
       "variant": "Midnight Blue / Twin/Twin XL  (71 x 102 inches)",
-      "price": 90,
+      "price": 67.5,
       "rrp": 90,
       "currency": "USD",
       "prevPrice": 90,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-flat-sheet-midnight-blue",
       "variantId": 55759861842305,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-midnight-blue?variant=55759861842305"
@@ -10850,14 +11420,14 @@
       "sku": "50006GMBNA",
       "product": "Arinta Organic Cotton Flat Sheet - Midnight Blue",
       "variant": "Midnight Blue / Queen / Full (102 x 106 inches)",
-      "price": 125,
+      "price": 93.75,
       "rrp": 125,
       "currency": "USD",
       "prevPrice": 125,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-flat-sheet-midnight-blue",
       "variantId": 55759861875073,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-midnight-blue?variant=55759861875073"
@@ -10866,14 +11436,14 @@
       "sku": "50007GMBNA",
       "product": "Arinta Organic Cotton Flat Sheet - Midnight Blue",
       "variant": "Midnight Blue / King (118 x 106 inches)",
-      "price": 135,
+      "price": 101.25,
       "rrp": 135,
       "currency": "USD",
       "prevPrice": 135,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-flat-sheet-midnight-blue",
       "variantId": 55759861907841,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-midnight-blue?variant=55759861907841"
@@ -10882,14 +11452,14 @@
       "sku": "50042GFG",
       "product": "Arinta Organic Cotton Fitted Sheet - Forest Green",
       "variant": "Forest Green / Twin (39 inch x 75 inch x 18 inch)",
-      "price": 95,
+      "price": 71.25,
       "rrp": 95,
       "currency": "USD",
       "prevPrice": 95,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-fitted-sheet-forest-green",
       "variantId": 55759804137857,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-forest-green?variant=55759804137857"
@@ -10898,14 +11468,14 @@
       "sku": "50045GFG",
       "product": "Arinta Organic Cotton Fitted Sheet - Forest Green",
       "variant": "Forest Green / Queen (60 inch x 80 inch x 18 inch)",
-      "price": 120,
+      "price": 90,
       "rrp": 120,
       "currency": "USD",
       "prevPrice": 120,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-fitted-sheet-forest-green",
       "variantId": 55759804170625,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-forest-green?variant=55759804170625"
@@ -10914,14 +11484,14 @@
       "sku": "50046GFG",
       "product": "Arinta Organic Cotton Fitted Sheet - Forest Green",
       "variant": "Forest Green / King (76 inch x 80 inch x 18 inch)",
-      "price": 135,
+      "price": 101.25,
       "rrp": 135,
       "currency": "USD",
       "prevPrice": 135,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-fitted-sheet-forest-green",
       "variantId": 55759804203393,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-forest-green?variant=55759804203393"
@@ -10930,14 +11500,14 @@
       "sku": "50042GCH",
       "product": "Arinta Organic Cotton Fitted Sheet - Charcoal",
       "variant": "Charcoal / Twin (39 inch x 75 inch x 18 inch)",
-      "price": 95,
+      "price": 71.25,
       "rrp": 95,
       "currency": "USD",
       "prevPrice": 95,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal-us",
       "variantId": 55759763669377,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-charcoal-us?variant=55759763669377"
@@ -10946,14 +11516,14 @@
       "sku": "50045GCH",
       "product": "Arinta Organic Cotton Fitted Sheet - Charcoal",
       "variant": "Charcoal / Queen (60 inch x 80 inch x 18 inch)",
-      "price": 120,
+      "price": 90,
       "rrp": 120,
       "currency": "USD",
       "prevPrice": 120,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal-us",
       "variantId": 55759763702145,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-charcoal-us?variant=55759763702145"
@@ -10962,14 +11532,14 @@
       "sku": "50046GCH",
       "product": "Arinta Organic Cotton Fitted Sheet - Charcoal",
       "variant": "Charcoal / King (76 inch x 80 inch x 18 inch)",
-      "price": 135,
+      "price": 101.25,
       "rrp": 135,
       "currency": "USD",
       "prevPrice": 135,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal-us",
       "variantId": 55759763734913,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-charcoal-us?variant=55759763734913"
@@ -10978,14 +11548,14 @@
       "sku": "50042GMB",
       "product": "Arinta Organic Cotton Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Twin (39 inch x 75 inch x 18 inch)",
-      "price": 95,
+      "price": 71.25,
       "rrp": 95,
       "currency": "USD",
       "prevPrice": 95,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue-us",
       "variantId": 55759722938753,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-midnight-blue-us?variant=55759722938753"
@@ -10994,14 +11564,14 @@
       "sku": "50045GMB",
       "product": "Arinta Organic Cotton Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / Queen (60 inch x 80 inch x 18 inch)",
-      "price": 120,
+      "price": 90,
       "rrp": 120,
       "currency": "USD",
       "prevPrice": 120,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue-us",
       "variantId": 55759722971521,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-midnight-blue-us?variant=55759722971521"
@@ -11010,14 +11580,14 @@
       "sku": "50046GMB",
       "product": "Arinta Organic Cotton Fitted Sheet - Midnight Blue",
       "variant": "Midnight Blue / King (76 inch x 80 inch x 18 inch)",
-      "price": 135,
+      "price": 101.25,
       "rrp": 135,
       "currency": "USD",
       "prevPrice": 135,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue-us",
       "variantId": 55759723004289,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-midnight-blue-us?variant=55759723004289"
@@ -11026,14 +11596,14 @@
       "sku": "50036GFG",
       "product": "Arinta Organic Cotton Comforter Cover - Forest Green",
       "variant": "Forest Green / Twin (66 inch x 86 inch)",
-      "price": 130,
+      "price": 97.5,
       "rrp": 130,
       "currency": "USD",
       "prevPrice": 130,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-comforter-cover-forest-green",
       "variantId": 55759685747073,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-forest-green?variant=55759685747073"
@@ -11042,14 +11612,14 @@
       "sku": "50037GFG",
       "product": "Arinta Organic Cotton Comforter Cover - Forest Green",
       "variant": "Forest Green / Queen / Full (86 inch x 86 inch)",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-comforter-cover-forest-green",
       "variantId": 55759685779841,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-forest-green?variant=55759685779841"
@@ -11058,14 +11628,14 @@
       "sku": "50038GFG",
       "product": "Arinta Organic Cotton Comforter Cover - Forest Green",
       "variant": "Forest Green / King (100 inch x 90 inch)",
-      "price": 190,
+      "price": 142.5,
       "rrp": 190,
       "currency": "USD",
       "prevPrice": 190,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-comforter-cover-forest-green",
       "variantId": 55759685812609,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-forest-green?variant=55759685812609"
@@ -11074,14 +11644,14 @@
       "sku": "50036GCH",
       "product": "Arinta Organic Cotton Comforter Cover - Charcoal",
       "variant": "Charcoal / Twin (66 inch x 86 inch)",
-      "price": 130,
+      "price": 97.5,
       "rrp": 130,
       "currency": "USD",
       "prevPrice": 130,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-comforter-cover-charcoal",
       "variantId": 55759647670657,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-charcoal?variant=55759647670657"
@@ -11090,14 +11660,14 @@
       "sku": "50037GCH",
       "product": "Arinta Organic Cotton Comforter Cover - Charcoal",
       "variant": "Charcoal / Queen / Full (86 inch x 86 inch)",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-comforter-cover-charcoal",
       "variantId": 55759647703425,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-charcoal?variant=55759647703425"
@@ -11106,14 +11676,14 @@
       "sku": "50038GCH",
       "product": "Arinta Organic Cotton Comforter Cover - Charcoal",
       "variant": "Charcoal / King (100 inch x 90 inch)",
-      "price": 190,
+      "price": 142.5,
       "rrp": 190,
       "currency": "USD",
       "prevPrice": 190,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-comforter-cover-charcoal",
       "variantId": 55759647736193,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-charcoal?variant=55759647736193"
@@ -11122,14 +11692,14 @@
       "sku": "50036GMB",
       "product": "Arinta Organic Cotton Comforter Cover - Midnight Blue",
       "variant": "Midnight Blue / Twin (66 inch x 86 inch)",
-      "price": 130,
+      "price": 97.5,
       "rrp": 130,
       "currency": "USD",
       "prevPrice": 130,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-comforter-cover-midnight-blue",
       "variantId": 55759639675265,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-midnight-blue?variant=55759639675265"
@@ -11138,14 +11708,14 @@
       "sku": "50037GMB",
       "product": "Arinta Organic Cotton Comforter Cover - Midnight Blue",
       "variant": "Midnight Blue / Queen / Full (86 inch x 86 inch)",
-      "price": 170,
+      "price": 127.5,
       "rrp": 170,
       "currency": "USD",
       "prevPrice": 170,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-comforter-cover-midnight-blue",
       "variantId": 55759639708033,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-midnight-blue?variant=55759639708033"
@@ -11154,14 +11724,14 @@
       "sku": "50038GMB",
       "product": "Arinta Organic Cotton Comforter Cover - Midnight Blue",
       "variant": "Midnight Blue / King (100 inch x 90 inch)",
-      "price": 190,
+      "price": 142.5,
       "rrp": 190,
       "currency": "USD",
       "prevPrice": 190,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-comforter-cover-midnight-blue",
       "variantId": 55759639740801,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-midnight-blue?variant=55759639740801"
@@ -11170,14 +11740,14 @@
       "sku": "50030GFG",
       "product": "Arinta Organic Cotton Pillowcase - Forest Green",
       "variant": "Forest Green / Standard (20 inch x 26 inch)",
-      "price": 20,
+      "price": 15,
       "rrp": 20,
       "currency": "USD",
       "prevPrice": 20,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-pillowcase-forest-green",
       "variantId": 55759635120513,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-forest-green?variant=55759635120513"
@@ -11186,14 +11756,14 @@
       "sku": "50031GFG",
       "product": "Arinta Organic Cotton Pillowcase - Forest Green",
       "variant": "Forest Green / Queen (20 inch x 30 inch)",
-      "price": 25,
+      "price": 18.75,
       "rrp": 25,
       "currency": "USD",
       "prevPrice": 25,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-pillowcase-forest-green",
       "variantId": 55759635153281,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-forest-green?variant=55759635153281"
@@ -11202,14 +11772,14 @@
       "sku": "50032GFG",
       "product": "Arinta Organic Cotton Pillowcase - Forest Green",
       "variant": "Forest Green / King (20 inch x 36 inch)",
-      "price": 30,
+      "price": 22.5,
       "rrp": 30,
       "currency": "USD",
       "prevPrice": 30,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-pillowcase-forest-green",
       "variantId": 55759635186049,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-forest-green?variant=55759635186049"
@@ -11218,14 +11788,14 @@
       "sku": "50030GCH",
       "product": "Arinta Organic Cotton Pillowcase - Charcoal",
       "variant": "Charcoal / Standard (20 inch x 26 inch)",
-      "price": 20,
+      "price": 15,
       "rrp": 20,
       "currency": "USD",
       "prevPrice": 20,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-pillowcase-charcoal",
       "variantId": 55759633023361,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-charcoal?variant=55759633023361"
@@ -11234,14 +11804,14 @@
       "sku": "50031GCH",
       "product": "Arinta Organic Cotton Pillowcase - Charcoal",
       "variant": "Charcoal / Queen (20 inch x 30 inch)",
-      "price": 25,
+      "price": 18.75,
       "rrp": 25,
       "currency": "USD",
       "prevPrice": 25,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-pillowcase-charcoal",
       "variantId": 55759633056129,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-charcoal?variant=55759633056129"
@@ -11250,14 +11820,14 @@
       "sku": "50032GCH",
       "product": "Arinta Organic Cotton Pillowcase - Charcoal",
       "variant": "Charcoal / King (20 inch x 36 inch)",
-      "price": 30,
+      "price": 22.5,
       "rrp": 30,
       "currency": "USD",
       "prevPrice": 30,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-pillowcase-charcoal",
       "variantId": 55759633088897,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-charcoal?variant=55759633088897"
@@ -11266,14 +11836,14 @@
       "sku": "50030GMB",
       "product": "Arinta Organic Cotton Pillowcase - Midnight Blue",
       "variant": "Midnight Blue / Standard (20 inch x 26 inch)",
-      "price": 20,
+      "price": 15,
       "rrp": 20,
       "currency": "USD",
       "prevPrice": 20,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-pillowcase-midnight-blue",
       "variantId": 55759578333569,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-midnight-blue?variant=55759578333569"
@@ -11282,14 +11852,14 @@
       "sku": "50031GMB",
       "product": "Arinta Organic Cotton Pillowcase - Midnight Blue",
       "variant": "Midnight Blue / Queen (20 inch x 30 inch)",
-      "price": 25,
+      "price": 18.75,
       "rrp": 25,
       "currency": "USD",
       "prevPrice": 25,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-pillowcase-midnight-blue",
       "variantId": 55759578366337,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-midnight-blue?variant=55759578366337"
@@ -11298,14 +11868,14 @@
       "sku": "50032GMB",
       "product": "Arinta Organic Cotton Pillowcase - Midnight Blue",
       "variant": "Midnight Blue / King (20 inch x 36 inch)",
-      "price": 30,
+      "price": 22.5,
       "rrp": 30,
       "currency": "USD",
       "prevPrice": 30,
-      "changeType": "up",
-      "pct": 33.33333333333333,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "arinta-organic-cotton-pillowcase-midnight-blue",
       "variantId": 55759578399105,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-midnight-blue?variant=55759578399105"
@@ -11314,14 +11884,14 @@
       "sku": "WW1000NA",
       "product": "Herringbone Wool Throw - Wide Width - US",
       "variant": "Duck Egg",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553168736641,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553168736641"
@@ -11330,14 +11900,14 @@
       "sku": "WW1001NA",
       "product": "Herringbone Wool Throw - Wide Width - US",
       "variant": "Lavender",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553242497409,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553242497409"
@@ -11346,14 +11916,14 @@
       "sku": "WW1003NA",
       "product": "Herringbone Wool Throw - Wide Width - US",
       "variant": "Light Sage",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553441300865,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553441300865"
@@ -11362,14 +11932,14 @@
       "sku": "WW1005NA",
       "product": "Herringbone Wool Throw - Wide Width - US",
       "variant": "Natural",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55554942828929,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55554942828929"
@@ -11378,14 +11948,14 @@
       "sku": "WW1002NA",
       "product": "Herringbone Wool Throw - Wide Width - US",
       "variant": "Navy Blue",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553430913409,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553430913409"
@@ -11394,14 +11964,14 @@
       "sku": "WW1006NA",
       "product": "Herringbone Wool Throw - Wide Width - US",
       "variant": "Pale Pink",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55554945581441,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55554945581441"
@@ -11410,14 +11980,14 @@
       "sku": "WW1004NA",
       "product": "Herringbone Wool Throw - Wide Width - US",
       "variant": "Vintage Grey",
-      "price": 200,
+      "price": 150,
       "rrp": 200,
       "currency": "USD",
       "prevPrice": 200,
-      "changeType": "up",
-      "pct": 25,
-      "changedAt": "2026-10-01T10:41:49.618Z",
-      "syncTs": "2026-10-12T22:42:23.936Z",
+      "changeType": "down",
+      "pct": -25,
+      "changedAt": "2026-10-13T11:22:21.414Z",
+      "syncTs": "2026-10-13T11:22:21.414Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553742012801,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553742012801"
