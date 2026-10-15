@@ -10073,6 +10073,2598 @@
   ],
   "_rows": [
     {
+      "sku": "C-HH-QUE-WHT-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / White / Hand Waxed Ash",
+      "price": 3800,
+      "rrp": 3800,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182208758145,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182208758145"
+    },
+    {
+      "sku": "C-HH-QUE-WHT-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / White / Ash with Sable Finish",
+      "price": 3800,
+      "rrp": 3800,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182208790913,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182208790913"
+    },
+    {
+      "sku": "C-HH-QUE-WHT-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / White / Hand Waxed White Oak",
+      "price": 3800,
+      "rrp": 3800,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182208823681,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182208823681"
+    },
+    {
+      "sku": "C-HH-QUE-TAN-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Tan / Hand Waxed Ash",
+      "price": 3800,
+      "rrp": 3800,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182208856449,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182208856449"
+    },
+    {
+      "sku": "C-HH-QUE-TAN-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Tan / Ash with Sable Finish",
+      "price": 3800,
+      "rrp": 3800,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182208889217,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182208889217"
+    },
+    {
+      "sku": "C-HH-QUE-TAN-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Tan / Hand Waxed White Oak",
+      "price": 3800,
+      "rrp": 3800,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182208921985,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182208921985"
+    },
+    {
+      "sku": "C-HH-QUE-OLI-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Olive Green / Hand Waxed Ash",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182208954753,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182208954753"
+    },
+    {
+      "sku": "C-HH-QUE-OLI-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Olive Green / Ash with Sable Finish",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182208987521,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182208987521"
+    },
+    {
+      "sku": "C-HH-QUE-OLI-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Olive Green / Hand Waxed White Oak",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209020289,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209020289"
+    },
+    {
+      "sku": "C-HH-QUE-MID-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Midnight Blue / Hand Waxed Ash",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209053057,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209053057"
+    },
+    {
+      "sku": "C-HH-QUE-MID-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Midnight Blue / Ash with Sable Finish",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209085825,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209085825"
+    },
+    {
+      "sku": "C-HH-QUE-MID-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Midnight Blue / Hand Waxed White Oak",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209118593,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209118593"
+    },
+    {
+      "sku": "C-HH-QUE-GRA-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Graphite / Hand Waxed Ash",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209151361,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209151361"
+    },
+    {
+      "sku": "C-HH-QUE-GRA-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Graphite / Ash with Sable Finish",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209184129,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209184129"
+    },
+    {
+      "sku": "C-HH-QUE-GRA-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Graphite / Hand Waxed White Oak",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209216897,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209216897"
+    },
+    {
+      "sku": "C-HH-QUE-SKY-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Sky Blue / Hand Waxed Ash",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209249665,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209249665"
+    },
+    {
+      "sku": "C-HH-QUE-SKY-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Sky Blue / Ash with Sable Finish",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209282433,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209282433"
+    },
+    {
+      "sku": "C-HH-QUE-SKY-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Sky Blue / Hand Waxed White Oak",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209315201,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209315201"
+    },
+    {
+      "sku": "C-HH-QUE-NAT-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Natural / Hand Waxed Ash",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209347969,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209347969"
+    },
+    {
+      "sku": "C-HH-QUE-NAT-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Natural / Ash with Sable Finish",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209380737,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209380737"
+    },
+    {
+      "sku": "C-HH-QUE-NAT-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Natural / Hand Waxed White Oak",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209413505,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209413505"
+    },
+    {
+      "sku": "C-HH-QUE-HAI-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Hailes / Hand Waxed Ash",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209446273,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209446273"
+    },
+    {
+      "sku": "C-HH-QUE-HAI-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Hailes / Ash with Sable Finish",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209479041,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209479041"
+    },
+    {
+      "sku": "C-HH-QUE-HAI-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Hailes / Hand Waxed White Oak",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209511809,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209511809"
+    },
+    {
+      "sku": "C-HH-QUE-LOC-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Lochleven / Hand Waxed Ash",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209544577,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209544577"
+    },
+    {
+      "sku": "C-HH-QUE-LOC-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Lochleven / Ash with Sable Finish",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209577345,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209577345"
+    },
+    {
+      "sku": "C-HH-QUE-LOC-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Lochleven / Hand Waxed White Oak",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209610113,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209610113"
+    },
+    {
+      "sku": "C-HH-QUE-URQ-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Urquhart / Hand Waxed Ash",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209642881,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209642881"
+    },
+    {
+      "sku": "C-HH-QUE-URQ-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Urquhart / Ash with Sable Finish",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209675649,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209675649"
+    },
+    {
+      "sku": "C-HH-QUE-URQ-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Urquhart / Hand Waxed White Oak",
+      "price": 5000,
+      "rrp": 5000,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209708417,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209708417"
+    },
+    {
+      "sku": "C-HH-QUE-CED-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Cedar / Hand Waxed Ash",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209741185,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209741185"
+    },
+    {
+      "sku": "C-HH-QUE-CED-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Cedar / Ash with Sable Finish",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209773953,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209773953"
+    },
+    {
+      "sku": "C-HH-QUE-CED-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Cedar / Hand Waxed White Oak",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209806721,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209806721"
+    },
+    {
+      "sku": "C-HH-QUE-CHA-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Charcoal / Hand Waxed Ash",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209839489,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209839489"
+    },
+    {
+      "sku": "C-HH-QUE-CHA-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Charcoal / Ash with Sable Finish",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209872257,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209872257"
+    },
+    {
+      "sku": "C-HH-QUE-CHA-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Charcoal / Hand Waxed White Oak",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209905025,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209905025"
+    },
+    {
+      "sku": "C-HH-QUE-CHAM-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Champagne / Hand Waxed Ash",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209937793,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209937793"
+    },
+    {
+      "sku": "C-HH-QUE-CHAM-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Champagne / Ash with Sable Finish",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182209970561,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182209970561"
+    },
+    {
+      "sku": "C-HH-QUE-CHAM-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Champagne / Hand Waxed White Oak",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210003329,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210003329"
+    },
+    {
+      "sku": "C-HH-QUE-CRE-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Cream / Hand Waxed Ash",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210036097,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210036097"
+    },
+    {
+      "sku": "C-HH-QUE-CRE-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Cream / Ash with Sable Finish",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210068865,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210068865"
+    },
+    {
+      "sku": "C-HH-QUE-CRE-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Cream / Hand Waxed White Oak",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210101633,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210101633"
+    },
+    {
+      "sku": "C-HH-QUE-BLU-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Blue / Hand Waxed Ash",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210134401,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210134401"
+    },
+    {
+      "sku": "C-HH-QUE-BLU-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Blue / Ash with Sable Finish",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210167169,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210167169"
+    },
+    {
+      "sku": "C-HH-QUE-BLU-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Blue / Hand Waxed White Oak",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210199937,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210199937"
+    },
+    {
+      "sku": "C-HH-QUE-AQU-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Aqua / Hand Waxed Ash",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210232705,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210232705"
+    },
+    {
+      "sku": "C-HH-QUE-AQU-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Aqua / Ash with Sable Finish",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210265473,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210265473"
+    },
+    {
+      "sku": "C-HH-QUE-AQU-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Aqua / Hand Waxed White Oak",
+      "price": 5600,
+      "rrp": 5600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210298241,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210298241"
+    },
+    {
+      "sku": "C-HH-QUE-TOP-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Topaz / Hand Waxed Ash",
+      "price": 7700,
+      "rrp": 7700,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210331009,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210331009"
+    },
+    {
+      "sku": "C-HH-QUE-TOP-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Topaz / Ash with Sable Finish",
+      "price": 7700,
+      "rrp": 7700,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210363777,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210363777"
+    },
+    {
+      "sku": "C-HH-QUE-TOP-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Topaz / Hand Waxed White Oak",
+      "price": 7700,
+      "rrp": 7700,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210396545,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210396545"
+    },
+    {
+      "sku": "C-HH-QUE-BEI-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Beige / Hand Waxed Ash",
+      "price": 8600,
+      "rrp": 8600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210429313,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210429313"
+    },
+    {
+      "sku": "C-HH-QUE-BEI-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Beige / Ash with Sable Finish",
+      "price": 8600,
+      "rrp": 8600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210462081,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210462081"
+    },
+    {
+      "sku": "C-HH-QUE-BEI-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "Queen / Beige / Hand Waxed White Oak",
+      "price": 8600,
+      "rrp": 8600,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210494849,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210494849"
+    },
+    {
+      "sku": "C-HH-KIN-WHT-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / White / Hand Waxed Ash",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210527617,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210527617"
+    },
+    {
+      "sku": "C-HH-KIN-WHT-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / White / Ash with Sable Finish",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210560385,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210560385"
+    },
+    {
+      "sku": "C-HH-KIN-WHT-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / White / Hand Waxed White Oak",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210593153,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210593153"
+    },
+    {
+      "sku": "C-HH-KIN-TAN-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Tan / Hand Waxed Ash",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210625921,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210625921"
+    },
+    {
+      "sku": "C-HH-KIN-TAN-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Tan / Ash with Sable Finish",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210658689,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210658689"
+    },
+    {
+      "sku": "C-HH-KIN-TAN-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Tan / Hand Waxed White Oak",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210691457,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210691457"
+    },
+    {
+      "sku": "C-HH-KIN-OLI-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Olive Green / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210724225,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210724225"
+    },
+    {
+      "sku": "C-HH-KIN-OLI-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Olive Green / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210756993,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210756993"
+    },
+    {
+      "sku": "C-HH-KIN-OLI-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Olive Green / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210789761,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210789761"
+    },
+    {
+      "sku": "C-HH-KIN-MID-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Midnight Blue / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210822529,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210822529"
+    },
+    {
+      "sku": "C-HH-KIN-MID-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Midnight Blue / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210855297,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210855297"
+    },
+    {
+      "sku": "C-HH-KIN-MID-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Midnight Blue / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210888065,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210888065"
+    },
+    {
+      "sku": "C-HH-KIN-GRA-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Graphite / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210920833,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210920833"
+    },
+    {
+      "sku": "C-HH-KIN-GRA-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Graphite / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210953601,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210953601"
+    },
+    {
+      "sku": "C-HH-KIN-GRA-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Graphite / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182210986369,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182210986369"
+    },
+    {
+      "sku": "C-HH-KIN-SKY-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Sky Blue / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211019137,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211019137"
+    },
+    {
+      "sku": "C-HH-KIN-SKY-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Sky Blue / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211051905,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211051905"
+    },
+    {
+      "sku": "C-HH-KIN-SKY-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Sky Blue / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211084673,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211084673"
+    },
+    {
+      "sku": "C-HH-KIN-NAT-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Natural / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211117441,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211117441"
+    },
+    {
+      "sku": "C-HH-KIN-NAT-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Natural / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211150209,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211150209"
+    },
+    {
+      "sku": "C-HH-KIN-NAT-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Natural / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211182977,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211182977"
+    },
+    {
+      "sku": "C-HH-KIN-HAI-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Hailes / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211215745,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211215745"
+    },
+    {
+      "sku": "C-HH-KIN-HAI-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Hailes / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211248513,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211248513"
+    },
+    {
+      "sku": "C-HH-KIN-HAI-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Hailes / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211281281,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211281281"
+    },
+    {
+      "sku": "C-HH-KIN-LOC-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Lochleven / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211314049,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211314049"
+    },
+    {
+      "sku": "C-HH-KIN-LOC-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Lochleven / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211346817,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211346817"
+    },
+    {
+      "sku": "C-HH-KIN-LOC-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Lochleven / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211379585,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211379585"
+    },
+    {
+      "sku": "C-HH-KIN-URQ-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Urquhart / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211412353,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211412353"
+    },
+    {
+      "sku": "C-HH-KIN-URQ-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Urquhart / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211445121,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211445121"
+    },
+    {
+      "sku": "C-HH-KIN-URQ-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Urquhart / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211477889,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211477889"
+    },
+    {
+      "sku": "C-HH-KIN-CED-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Cedar / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211510657,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211510657"
+    },
+    {
+      "sku": "C-HH-KIN-CED-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Cedar / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211543425,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211543425"
+    },
+    {
+      "sku": "C-HH-KIN-CED-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Cedar / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211576193,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211576193"
+    },
+    {
+      "sku": "C-HH-KIN-CHA-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Charcoal / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211608961,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211608961"
+    },
+    {
+      "sku": "C-HH-KIN-CHA-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Charcoal / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211641729,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211641729"
+    },
+    {
+      "sku": "C-HH-KIN-CHA-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Charcoal / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211674497,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211674497"
+    },
+    {
+      "sku": "C-HH-KIN-CHAM-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Champagne / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211707265,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211707265"
+    },
+    {
+      "sku": "C-HH-KIN-CHAM-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Champagne / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211740033,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211740033"
+    },
+    {
+      "sku": "C-HH-KIN-CHAM-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Champagne / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211772801,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211772801"
+    },
+    {
+      "sku": "C-HH-KIN-CRE-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Cream / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211805569,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211805569"
+    },
+    {
+      "sku": "C-HH-KIN-CRE-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Cream / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211838337,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211838337"
+    },
+    {
+      "sku": "C-HH-KIN-CRE-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Cream / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211871105,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211871105"
+    },
+    {
+      "sku": "C-HH-KIN-BLU-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Blue / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211903873,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211903873"
+    },
+    {
+      "sku": "C-HH-KIN-BLU-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Blue / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211936641,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211936641"
+    },
+    {
+      "sku": "C-HH-KIN-BLU-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Blue / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182211969409,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182211969409"
+    },
+    {
+      "sku": "C-HH-KIN-AQU-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Aqua / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212002177,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212002177"
+    },
+    {
+      "sku": "C-HH-KIN-AQU-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Aqua / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212034945,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212034945"
+    },
+    {
+      "sku": "C-HH-KIN-AQU-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Aqua / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212067713,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212067713"
+    },
+    {
+      "sku": "C-HH-KIN-TOP-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Topaz / Hand Waxed Ash",
+      "price": 8300,
+      "rrp": 8300,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212100481,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212100481"
+    },
+    {
+      "sku": "C-HH-KIN-TOP-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Topaz / Ash with Sable Finish",
+      "price": 8300,
+      "rrp": 8300,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212133249,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212133249"
+    },
+    {
+      "sku": "C-HH-KIN-TOP-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Topaz / Hand Waxed White Oak",
+      "price": 8300,
+      "rrp": 8300,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212166017,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212166017"
+    },
+    {
+      "sku": "C-HH-KIN-BEI-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Beige / Hand Waxed Ash",
+      "price": 9200,
+      "rrp": 9200,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212198785,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212198785"
+    },
+    {
+      "sku": "C-HH-KIN-BEI-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Beige / Ash with Sable Finish",
+      "price": 9200,
+      "rrp": 9200,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212231553,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212231553"
+    },
+    {
+      "sku": "C-HH-KIN-BEI-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "King / Beige / Hand Waxed White Oak",
+      "price": 9200,
+      "rrp": 9200,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212264321,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212264321"
+    },
+    {
+      "sku": "C-HH-CAL-WHT-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / White / Hand Waxed Ash",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212297089,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212297089"
+    },
+    {
+      "sku": "C-HH-CAL-WHT-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / White / Ash with Sable Finish",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212329857,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212329857"
+    },
+    {
+      "sku": "C-HH-CAL-WHT-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / White / Hand Waxed White Oak",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212362625,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212362625"
+    },
+    {
+      "sku": "C-HH-CAL-TAN-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Tan / Hand Waxed Ash",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212395393,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212395393"
+    },
+    {
+      "sku": "C-HH-CAL-TAN-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Tan / Ash with Sable Finish",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212428161,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212428161"
+    },
+    {
+      "sku": "C-HH-CAL-TAN-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Tan / Hand Waxed White Oak",
+      "price": 4400,
+      "rrp": 4400,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212460929,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212460929"
+    },
+    {
+      "sku": "C-HH-CAL-OLI-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Olive Green / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212493697,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212493697"
+    },
+    {
+      "sku": "C-HH-CAL-OLI-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Olive Green / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212526465,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212526465"
+    },
+    {
+      "sku": "C-HH-CAL-OLI-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Olive Green / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212559233,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212559233"
+    },
+    {
+      "sku": "C-HH-CAL-MID-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Midnight Blue / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212592001,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212592001"
+    },
+    {
+      "sku": "C-HH-CAL-MID-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Midnight Blue / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212624769,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212624769"
+    },
+    {
+      "sku": "C-HH-CAL-MID-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Midnight Blue / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212657537,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212657537"
+    },
+    {
+      "sku": "C-HH-CAL-GRA-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Graphite / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212690305,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212690305"
+    },
+    {
+      "sku": "C-HH-CAL-GRA-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Graphite / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212723073,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212723073"
+    },
+    {
+      "sku": "C-HH-CAL-GRA-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Graphite / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212755841,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212755841"
+    },
+    {
+      "sku": "C-HH-CAL-SKY-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Sky Blue / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212788609,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212788609"
+    },
+    {
+      "sku": "C-HH-CAL-SKY-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Sky Blue / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212821377,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212821377"
+    },
+    {
+      "sku": "C-HH-CAL-SKY-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Sky Blue / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212854145,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212854145"
+    },
+    {
+      "sku": "C-HH-CAL-NAT-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Natural / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212886913,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212886913"
+    },
+    {
+      "sku": "C-HH-CAL-NAT-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Natural / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212919681,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212919681"
+    },
+    {
+      "sku": "C-HH-CAL-NAT-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Natural / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212952449,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212952449"
+    },
+    {
+      "sku": "C-HH-CAL-HAI-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Hailes / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182212985217,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182212985217"
+    },
+    {
+      "sku": "C-HH-CAL-HAI-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Hailes / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213017985,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213017985"
+    },
+    {
+      "sku": "C-HH-CAL-HAI-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Hailes / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213050753,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213050753"
+    },
+    {
+      "sku": "C-HH-CAL-LOC-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Lochleven / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213083521,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213083521"
+    },
+    {
+      "sku": "C-HH-CAL-LOC-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Lochleven / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213116289,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213116289"
+    },
+    {
+      "sku": "C-HH-CAL-LOC-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Lochleven / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213149057,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213149057"
+    },
+    {
+      "sku": "C-HH-CAL-URQ-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Urquhart / Hand Waxed Ash",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213181825,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213181825"
+    },
+    {
+      "sku": "C-HH-CAL-URQ-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Urquhart / Ash with Sable Finish",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213214593,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213214593"
+    },
+    {
+      "sku": "C-HH-CAL-URQ-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Urquhart / Hand Waxed White Oak",
+      "price": 5900,
+      "rrp": 5900,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213247361,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213247361"
+    },
+    {
+      "sku": "C-HH-CAL-CED-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Cedar / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213280129,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213280129"
+    },
+    {
+      "sku": "C-HH-CAL-CED-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Cedar / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213312897,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213312897"
+    },
+    {
+      "sku": "C-HH-CAL-CED-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Cedar / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213345665,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213345665"
+    },
+    {
+      "sku": "C-HH-CAL-CHA-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Charcoal / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213378433,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213378433"
+    },
+    {
+      "sku": "C-HH-CAL-CHA-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Charcoal / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213411201,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213411201"
+    },
+    {
+      "sku": "C-HH-CAL-CHA-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Charcoal / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213443969,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213443969"
+    },
+    {
+      "sku": "C-HH-CAL-CHAM-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Champagne / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213476737,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213476737"
+    },
+    {
+      "sku": "C-HH-CAL-CHAM-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Champagne / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213509505,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213509505"
+    },
+    {
+      "sku": "C-HH-CAL-CHAM-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Champagne / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213542273,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213542273"
+    },
+    {
+      "sku": "C-HH-CAL-CRE-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Cream / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213575041,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213575041"
+    },
+    {
+      "sku": "C-HH-CAL-CRE-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Cream / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213607809,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213607809"
+    },
+    {
+      "sku": "C-HH-CAL-CRE-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Cream / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213640577,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213640577"
+    },
+    {
+      "sku": "C-HH-CAL-BLU-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Blue / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213673345,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213673345"
+    },
+    {
+      "sku": "C-HH-CAL-BLU-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Blue / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213706113,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213706113"
+    },
+    {
+      "sku": "C-HH-CAL-BLU-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Blue / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213738881,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213738881"
+    },
+    {
+      "sku": "C-HH-CAL-AQU-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Aqua / Hand Waxed Ash",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213771649,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213771649"
+    },
+    {
+      "sku": "C-HH-CAL-AQU-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Aqua / Ash with Sable Finish",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213804417,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213804417"
+    },
+    {
+      "sku": "C-HH-CAL-AQU-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Aqua / Hand Waxed White Oak",
+      "price": 6500,
+      "rrp": 6500,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213837185,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213837185"
+    },
+    {
+      "sku": "C-HH-CAL-TOP-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Topaz / Hand Waxed Ash",
+      "price": 8300,
+      "rrp": 8300,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213869953,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213869953"
+    },
+    {
+      "sku": "C-HH-CAL-TOP-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Topaz / Ash with Sable Finish",
+      "price": 8300,
+      "rrp": 8300,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213902721,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213902721"
+    },
+    {
+      "sku": "C-HH-CAL-TOP-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Topaz / Hand Waxed White Oak",
+      "price": 8300,
+      "rrp": 8300,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213935489,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213935489"
+    },
+    {
+      "sku": "C-HH-CAL-BEI-HWA",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Beige / Hand Waxed Ash",
+      "price": 9200,
+      "rrp": 9200,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182213968257,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182213968257"
+    },
+    {
+      "sku": "C-HH-CAL-BEI-AWSF",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Beige / Ash with Sable Finish",
+      "price": 9200,
+      "rrp": 9200,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182214001025,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182214001025"
+    },
+    {
+      "sku": "C-HH-CAL-BEI-HWWO",
+      "product": "Charlotte Upholstered Bed Frame - High Headboard",
+      "variant": "California King / Beige / Hand Waxed White Oak",
+      "price": 9200,
+      "rrp": 9200,
+      "currency": "USD",
+      "prevPrice": null,
+      "changeType": "new",
+      "pct": null,
+      "changedAt": "2026-10-15T14:38:14.400Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
+      "handle": "charlotte-bed-frame-high-headboard",
+      "variantId": 56182214033793,
+      "url": "https://www.thewoolroom.com/en-us/products/charlotte-bed-frame-high-headboard?variant=56182214033793"
+    },
+    {
       "sku": "13014SUNA",
       "product": "Harlequin Shetland Wool Throw - Sunshine",
       "variant": "",
@@ -10083,7 +12675,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "en-us-products-en-us-harlequin-shetland-wool-throw-sunshine",
       "variantId": 54397839311233,
       "url": "https://www.thewoolroom.com/en-us/products/en-us-products-en-us-harlequin-shetland-wool-throw-sunshine?variant=54397839311233"
@@ -10099,7 +12691,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060243739009,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060243739009"
@@ -10115,7 +12707,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060243771777,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060243771777"
@@ -10131,7 +12723,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060243804545,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060243804545"
@@ -10147,7 +12739,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060243837313,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060243837313"
@@ -10163,7 +12755,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060246262145,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060246262145"
@@ -10179,7 +12771,7 @@
       "changeType": "same",
       "pct": null,
       "changedAt": "2026-08-19T16:26:21.408Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "woolroom-gift-card-usd",
       "variantId": 56060246294913,
       "url": "https://www.thewoolroom.com/en-us/products/woolroom-gift-card-usd?variant=56060246294913"
@@ -10195,7 +12787,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "lilly-herringbone-pure-new-wool-throw",
       "variantId": 54397839933825,
       "url": "https://www.thewoolroom.com/en-us/products/lilly-herringbone-pure-new-wool-throw?variant=54397839933825"
@@ -10211,7 +12803,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "lilly-herringbone-pure-new-wool-throw",
       "variantId": 54397839999361,
       "url": "https://www.thewoolroom.com/en-us/products/lilly-herringbone-pure-new-wool-throw?variant=54397839999361"
@@ -10227,7 +12819,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "lilly-herringbone-pure-new-wool-throw",
       "variantId": 54397840032129,
       "url": "https://www.thewoolroom.com/en-us/products/lilly-herringbone-pure-new-wool-throw?variant=54397840032129"
@@ -10243,7 +12835,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "lilly-herringbone-pure-new-wool-throw",
       "variantId": 54397840064897,
       "url": "https://www.thewoolroom.com/en-us/products/lilly-herringbone-pure-new-wool-throw?variant=54397840064897"
@@ -10259,7 +12851,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "greta-herringbone-wool-blanket-1",
       "variantId": 54397839704449,
       "url": "https://www.thewoolroom.com/en-us/products/greta-herringbone-wool-blanket-1?variant=54397839704449"
@@ -10275,7 +12867,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "greta-herringbone-wool-blanket-1",
       "variantId": 54397839769985,
       "url": "https://www.thewoolroom.com/en-us/products/greta-herringbone-wool-blanket-1?variant=54397839769985"
@@ -10291,7 +12883,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "greta-herringbone-wool-blanket-1",
       "variantId": 54397839802753,
       "url": "https://www.thewoolroom.com/en-us/products/greta-herringbone-wool-blanket-1?variant=54397839802753"
@@ -10307,7 +12899,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "greta-herringbone-wool-blanket-1",
       "variantId": 54397839835521,
       "url": "https://www.thewoolroom.com/en-us/products/greta-herringbone-wool-blanket-1?variant=54397839835521"
@@ -10323,7 +12915,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397840720257,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397840720257"
@@ -10339,7 +12931,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397838983553,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397838983553"
@@ -10355,7 +12947,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397839016321,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397839016321"
@@ -10371,7 +12963,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397839049089,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397839049089"
@@ -10387,7 +12979,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-shetland-wool-throw",
       "variantId": 54397839278465,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-shetland-wool-throw?variant=54397839278465"
@@ -10403,7 +12995,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397839638913,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397839638913"
@@ -10419,7 +13011,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840523649,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840523649"
@@ -10435,7 +13027,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840490881,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840490881"
@@ -10451,7 +13043,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397839901057,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397839901057"
@@ -10467,7 +13059,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840130433,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840130433"
@@ -10483,7 +13075,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840294273,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840294273"
@@ -10499,7 +13091,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840195969,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840195969"
@@ -10515,7 +13107,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840327041,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840327041"
@@ -10531,7 +13123,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "wild-and-wool-throw-1",
       "variantId": 54397840228737,
       "url": "https://www.thewoolroom.com/en-us/products/wild-and-wool-throw-1?variant=54397840228737"
@@ -10547,7 +13139,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-forest-green",
       "variantId": 55768280203649,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-forest-green?variant=55768280203649"
@@ -10563,7 +13155,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-forest-green",
       "variantId": 55768280236417,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-forest-green?variant=55768280236417"
@@ -10579,7 +13171,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-forest-green",
       "variantId": 55768280269185,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-forest-green?variant=55768280269185"
@@ -10595,7 +13187,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte-us",
       "variantId": 55768277647745,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-latte-us?variant=55768277647745"
@@ -10611,7 +13203,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte-us",
       "variantId": 55768277680513,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-latte-us?variant=55768277680513"
@@ -10627,7 +13219,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-latte-us",
       "variantId": 55768277713281,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-latte-us?variant=55768277713281"
@@ -10643,7 +13235,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-forest-green",
       "variantId": 55768276009345,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-forest-green?variant=55768276009345"
@@ -10659,7 +13251,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-forest-green",
       "variantId": 55768276042113,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-forest-green?variant=55768276042113"
@@ -10675,7 +13267,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-forest-green",
       "variantId": 55768276074881,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-forest-green?variant=55768276074881"
@@ -10691,7 +13283,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-latte",
       "variantId": 55768253890945,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-latte?variant=55768253890945"
@@ -10707,7 +13299,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-latte",
       "variantId": 55768253923713,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-latte?variant=55768253923713"
@@ -10723,7 +13315,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-latte",
       "variantId": 55768253956481,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-latte?variant=55768253956481"
@@ -10739,7 +13331,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-midnight-blue",
       "variantId": 55768238326145,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-midnight-blue?variant=55768238326145"
@@ -10755,7 +13347,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-midnight-blue",
       "variantId": 55768238358913,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-midnight-blue?variant=55768238358913"
@@ -10771,7 +13363,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-midnight-blue",
       "variantId": 55768238391681,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-midnight-blue?variant=55768238391681"
@@ -10787,7 +13379,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-cloud-white",
       "variantId": 55768114921857,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-cloud-white?variant=55768114921857"
@@ -10803,7 +13395,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-cloud-white",
       "variantId": 55768114954625,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-cloud-white?variant=55768114954625"
@@ -10819,7 +13411,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-flat-sheet-cloud-white",
       "variantId": 55768114987393,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-flat-sheet-cloud-white?variant=55768114987393"
@@ -10835,7 +13427,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue-us",
       "variantId": 55760566976897,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-midnight-blue-us?variant=55760566976897"
@@ -10851,7 +13443,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue-us",
       "variantId": 55760567009665,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-midnight-blue-us?variant=55760567009665"
@@ -10867,7 +13459,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-midnight-blue-us",
       "variantId": 55760567042433,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-midnight-blue-us?variant=55760567042433"
@@ -10883,7 +13475,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white-us",
       "variantId": 55760558883201,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-cloud-white-us?variant=55760558883201"
@@ -10899,7 +13491,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white-us",
       "variantId": 55760558915969,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-cloud-white-us?variant=55760558915969"
@@ -10915,7 +13507,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-fitted-sheet-cloud-white-us",
       "variantId": 55760558948737,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-fitted-sheet-cloud-white-us?variant=55760558948737"
@@ -10931,7 +13523,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-forest-green",
       "variantId": 55760518218113,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-forest-green?variant=55760518218113"
@@ -10947,7 +13539,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-forest-green",
       "variantId": 55760518250881,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-forest-green?variant=55760518250881"
@@ -10963,7 +13555,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-forest-green",
       "variantId": 55760518283649,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-forest-green?variant=55760518283649"
@@ -10979,7 +13571,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-latte",
       "variantId": 55760502915457,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-latte?variant=55760502915457"
@@ -10995,7 +13587,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-latte",
       "variantId": 55760502948225,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-latte?variant=55760502948225"
@@ -11011,7 +13603,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-latte",
       "variantId": 55760502980993,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-latte?variant=55760502980993"
@@ -11027,7 +13619,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-midnight-blue",
       "variantId": 55760498524545,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-midnight-blue?variant=55760498524545"
@@ -11043,7 +13635,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-midnight-blue",
       "variantId": 55760498557313,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-midnight-blue?variant=55760498557313"
@@ -11059,7 +13651,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-midnight-blue",
       "variantId": 55760498590081,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-midnight-blue?variant=55760498590081"
@@ -11075,7 +13667,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-cloud-white",
       "variantId": 55760492134785,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-cloud-white?variant=55760492134785"
@@ -11091,7 +13683,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-cloud-white",
       "variantId": 55760492167553,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-cloud-white?variant=55760492167553"
@@ -11107,7 +13699,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-comforter-cover-cloud-white",
       "variantId": 55760492200321,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-comforter-cover-cloud-white?variant=55760492200321"
@@ -11123,7 +13715,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-forest-green",
       "variantId": 55760288645505,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-forest-green?variant=55760288645505"
@@ -11139,7 +13731,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-forest-green",
       "variantId": 55760288678273,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-forest-green?variant=55760288678273"
@@ -11155,7 +13747,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-forest-green",
       "variantId": 55760288711041,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-forest-green?variant=55760288711041"
@@ -11171,7 +13763,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-latte",
       "variantId": 55760250732929,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-latte?variant=55760250732929"
@@ -11187,7 +13779,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-latte",
       "variantId": 55760250765697,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-latte?variant=55760250765697"
@@ -11203,7 +13795,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-latte",
       "variantId": 55760250798465,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-latte?variant=55760250798465"
@@ -11219,7 +13811,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-midnight-blue",
       "variantId": 55760246538625,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-midnight-blue?variant=55760246538625"
@@ -11235,7 +13827,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-midnight-blue",
       "variantId": 55760246571393,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-midnight-blue?variant=55760246571393"
@@ -11251,7 +13843,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-midnight-blue",
       "variantId": 55760246604161,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-midnight-blue?variant=55760246604161"
@@ -11267,7 +13859,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-cloud-white",
       "variantId": 55760096166273,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-cloud-white?variant=55760096166273"
@@ -11283,7 +13875,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-cloud-white",
       "variantId": 55760096199041,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-cloud-white?variant=55760096199041"
@@ -11299,7 +13891,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "mariana-linen-blend-pillowcase-cloud-white",
       "variantId": 55760096231809,
       "url": "https://www.thewoolroom.com/en-us/products/mariana-linen-blend-pillowcase-cloud-white?variant=55760096231809"
@@ -11315,7 +13907,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-flat-sheet-forest-green",
       "variantId": 55759956869505,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-forest-green?variant=55759956869505"
@@ -11331,7 +13923,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-flat-sheet-forest-green",
       "variantId": 55759956902273,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-forest-green?variant=55759956902273"
@@ -11347,7 +13939,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-flat-sheet-forest-green",
       "variantId": 55759956935041,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-forest-green?variant=55759956935041"
@@ -11363,7 +13955,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-flat-sheet-charcoal",
       "variantId": 55759883895169,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-charcoal?variant=55759883895169"
@@ -11379,7 +13971,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-flat-sheet-charcoal",
       "variantId": 55759883927937,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-charcoal?variant=55759883927937"
@@ -11395,7 +13987,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-flat-sheet-charcoal",
       "variantId": 55759883960705,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-charcoal?variant=55759883960705"
@@ -11411,7 +14003,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-flat-sheet-midnight-blue",
       "variantId": 55759861842305,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-midnight-blue?variant=55759861842305"
@@ -11427,7 +14019,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-flat-sheet-midnight-blue",
       "variantId": 55759861875073,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-midnight-blue?variant=55759861875073"
@@ -11443,7 +14035,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-flat-sheet-midnight-blue",
       "variantId": 55759861907841,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-flat-sheet-midnight-blue?variant=55759861907841"
@@ -11459,7 +14051,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-fitted-sheet-forest-green",
       "variantId": 55759804137857,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-forest-green?variant=55759804137857"
@@ -11475,7 +14067,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-fitted-sheet-forest-green",
       "variantId": 55759804170625,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-forest-green?variant=55759804170625"
@@ -11491,7 +14083,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-fitted-sheet-forest-green",
       "variantId": 55759804203393,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-forest-green?variant=55759804203393"
@@ -11507,7 +14099,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal-us",
       "variantId": 55759763669377,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-charcoal-us?variant=55759763669377"
@@ -11523,7 +14115,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal-us",
       "variantId": 55759763702145,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-charcoal-us?variant=55759763702145"
@@ -11539,7 +14131,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-fitted-sheet-charcoal-us",
       "variantId": 55759763734913,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-charcoal-us?variant=55759763734913"
@@ -11555,7 +14147,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue-us",
       "variantId": 55759722938753,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-midnight-blue-us?variant=55759722938753"
@@ -11571,7 +14163,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue-us",
       "variantId": 55759722971521,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-midnight-blue-us?variant=55759722971521"
@@ -11587,7 +14179,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-fitted-sheet-midnight-blue-us",
       "variantId": 55759723004289,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-fitted-sheet-midnight-blue-us?variant=55759723004289"
@@ -11603,7 +14195,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-comforter-cover-forest-green",
       "variantId": 55759685747073,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-forest-green?variant=55759685747073"
@@ -11619,7 +14211,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-comforter-cover-forest-green",
       "variantId": 55759685779841,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-forest-green?variant=55759685779841"
@@ -11635,7 +14227,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-comforter-cover-forest-green",
       "variantId": 55759685812609,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-forest-green?variant=55759685812609"
@@ -11651,7 +14243,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-comforter-cover-charcoal",
       "variantId": 55759647670657,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-charcoal?variant=55759647670657"
@@ -11667,7 +14259,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-comforter-cover-charcoal",
       "variantId": 55759647703425,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-charcoal?variant=55759647703425"
@@ -11683,7 +14275,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-comforter-cover-charcoal",
       "variantId": 55759647736193,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-charcoal?variant=55759647736193"
@@ -11699,7 +14291,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-comforter-cover-midnight-blue",
       "variantId": 55759639675265,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-midnight-blue?variant=55759639675265"
@@ -11715,7 +14307,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-comforter-cover-midnight-blue",
       "variantId": 55759639708033,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-midnight-blue?variant=55759639708033"
@@ -11731,7 +14323,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-comforter-cover-midnight-blue",
       "variantId": 55759639740801,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-midnight-blue?variant=55759639740801"
@@ -11747,7 +14339,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-pillowcase-forest-green",
       "variantId": 55759635120513,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-forest-green?variant=55759635120513"
@@ -11763,7 +14355,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-pillowcase-forest-green",
       "variantId": 55759635153281,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-forest-green?variant=55759635153281"
@@ -11779,7 +14371,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-pillowcase-forest-green",
       "variantId": 55759635186049,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-forest-green?variant=55759635186049"
@@ -11795,7 +14387,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-pillowcase-charcoal",
       "variantId": 55759633023361,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-charcoal?variant=55759633023361"
@@ -11811,7 +14403,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-pillowcase-charcoal",
       "variantId": 55759633056129,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-charcoal?variant=55759633056129"
@@ -11827,7 +14419,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-pillowcase-charcoal",
       "variantId": 55759633088897,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-charcoal?variant=55759633088897"
@@ -11843,7 +14435,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-pillowcase-midnight-blue",
       "variantId": 55759578333569,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-midnight-blue?variant=55759578333569"
@@ -11859,7 +14451,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-pillowcase-midnight-blue",
       "variantId": 55759578366337,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-midnight-blue?variant=55759578366337"
@@ -11875,7 +14467,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "arinta-organic-cotton-pillowcase-midnight-blue",
       "variantId": 55759578399105,
       "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-pillowcase-midnight-blue?variant=55759578399105"
@@ -11891,7 +14483,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553168736641,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553168736641"
@@ -11907,7 +14499,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553242497409,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553242497409"
@@ -11923,7 +14515,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553441300865,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553441300865"
@@ -11939,7 +14531,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55554942828929,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55554942828929"
@@ -11955,7 +14547,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553430913409,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553430913409"
@@ -11971,7 +14563,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55554945581441,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55554945581441"
@@ -11987,7 +14579,7 @@
       "changeType": "down",
       "pct": -25,
       "changedAt": "2026-10-13T11:22:21.414Z",
-      "syncTs": "2026-10-15T08:47:40.235Z",
+      "syncTs": "2026-10-15T14:38:14.400Z",
       "handle": "herringbone-wool-throw-wide-width-us",
       "variantId": 55553742012801,
       "url": "https://www.thewoolroom.com/en-us/products/herringbone-wool-throw-wide-width-us?variant=55553742012801"
@@ -15148,6 +17740,2274 @@
       "price": 1450,
       "currency": "USD",
       "ts": "2026-09-28T10:29:28.150Z"
+    }
+  ],
+  "C-HH-QUE-WHT-HWA": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-WHT-HWA_rrp": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-WHT-AWSF": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-WHT-AWSF_rrp": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-WHT-HWWO": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-WHT-HWWO_rrp": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TAN-HWA": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TAN-HWA_rrp": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TAN-AWSF": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TAN-AWSF_rrp": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TAN-HWWO": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TAN-HWWO_rrp": [
+    {
+      "price": 3800,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-OLI-HWA": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-OLI-HWA_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-OLI-AWSF": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-OLI-AWSF_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-OLI-HWWO": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-OLI-HWWO_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-MID-HWA": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-MID-HWA_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-MID-AWSF": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-MID-AWSF_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-MID-HWWO": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-MID-HWWO_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-GRA-HWA": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-GRA-HWA_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-GRA-AWSF": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-GRA-AWSF_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-GRA-HWWO": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-GRA-HWWO_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-SKY-HWA": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-SKY-HWA_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-SKY-AWSF": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-SKY-AWSF_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-SKY-HWWO": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-SKY-HWWO_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-NAT-HWA": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-NAT-HWA_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-NAT-AWSF": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-NAT-AWSF_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-NAT-HWWO": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-NAT-HWWO_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-HAI-HWA": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-HAI-HWA_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-HAI-AWSF": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-HAI-AWSF_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-HAI-HWWO": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-HAI-HWWO_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-LOC-HWA": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-LOC-HWA_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-LOC-AWSF": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-LOC-AWSF_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-LOC-HWWO": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-LOC-HWWO_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-URQ-HWA": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-URQ-HWA_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-URQ-AWSF": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-URQ-AWSF_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-URQ-HWWO": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-URQ-HWWO_rrp": [
+    {
+      "price": 5000,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CED-HWA": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CED-HWA_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CED-AWSF": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CED-AWSF_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CED-HWWO": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CED-HWWO_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHA-HWA": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHA-HWA_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHA-AWSF": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHA-AWSF_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHA-HWWO": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHA-HWWO_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHAM-HWA": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHAM-HWA_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHAM-AWSF": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHAM-AWSF_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHAM-HWWO": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CHAM-HWWO_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CRE-HWA": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CRE-HWA_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CRE-AWSF": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CRE-AWSF_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CRE-HWWO": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-CRE-HWWO_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BLU-HWA": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BLU-HWA_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BLU-AWSF": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BLU-AWSF_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BLU-HWWO": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BLU-HWWO_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-AQU-HWA": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-AQU-HWA_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-AQU-AWSF": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-AQU-AWSF_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-AQU-HWWO": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-AQU-HWWO_rrp": [
+    {
+      "price": 5600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TOP-HWA": [
+    {
+      "price": 7700,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TOP-HWA_rrp": [
+    {
+      "price": 7700,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TOP-AWSF": [
+    {
+      "price": 7700,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TOP-AWSF_rrp": [
+    {
+      "price": 7700,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TOP-HWWO": [
+    {
+      "price": 7700,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-TOP-HWWO_rrp": [
+    {
+      "price": 7700,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BEI-HWA": [
+    {
+      "price": 8600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BEI-HWA_rrp": [
+    {
+      "price": 8600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BEI-AWSF": [
+    {
+      "price": 8600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BEI-AWSF_rrp": [
+    {
+      "price": 8600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BEI-HWWO": [
+    {
+      "price": 8600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-QUE-BEI-HWWO_rrp": [
+    {
+      "price": 8600,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-WHT-HWA": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-WHT-HWA_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-WHT-AWSF": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-WHT-AWSF_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-WHT-HWWO": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-WHT-HWWO_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TAN-HWA": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TAN-HWA_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TAN-AWSF": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TAN-AWSF_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TAN-HWWO": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TAN-HWWO_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-OLI-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-OLI-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-OLI-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-OLI-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-OLI-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-OLI-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-MID-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-MID-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-MID-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-MID-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-MID-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-MID-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-GRA-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-GRA-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-GRA-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-GRA-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-GRA-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-GRA-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-SKY-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-SKY-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-SKY-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-SKY-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-SKY-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-SKY-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-NAT-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-NAT-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-NAT-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-NAT-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-NAT-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-NAT-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-HAI-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-HAI-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-HAI-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-HAI-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-HAI-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-HAI-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-LOC-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-LOC-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-LOC-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-LOC-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-LOC-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-LOC-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-URQ-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-URQ-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-URQ-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-URQ-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-URQ-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-URQ-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CED-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CED-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CED-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CED-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CED-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CED-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHA-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHA-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHA-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHA-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHA-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHA-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHAM-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHAM-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHAM-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHAM-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHAM-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CHAM-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CRE-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CRE-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CRE-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CRE-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CRE-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-CRE-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BLU-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BLU-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BLU-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BLU-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BLU-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BLU-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-AQU-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-AQU-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-AQU-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-AQU-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-AQU-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-AQU-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TOP-HWA": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TOP-HWA_rrp": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TOP-AWSF": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TOP-AWSF_rrp": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TOP-HWWO": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-TOP-HWWO_rrp": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BEI-HWA": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BEI-HWA_rrp": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BEI-AWSF": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BEI-AWSF_rrp": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BEI-HWWO": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-KIN-BEI-HWWO_rrp": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-WHT-HWA": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-WHT-HWA_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-WHT-AWSF": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-WHT-AWSF_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-WHT-HWWO": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-WHT-HWWO_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TAN-HWA": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TAN-HWA_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TAN-AWSF": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TAN-AWSF_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TAN-HWWO": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TAN-HWWO_rrp": [
+    {
+      "price": 4400,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-OLI-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-OLI-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-OLI-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-OLI-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-OLI-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-OLI-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-MID-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-MID-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-MID-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-MID-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-MID-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-MID-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-GRA-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-GRA-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-GRA-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-GRA-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-GRA-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-GRA-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-SKY-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-SKY-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-SKY-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-SKY-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-SKY-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-SKY-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-NAT-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-NAT-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-NAT-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-NAT-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-NAT-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-NAT-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-HAI-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-HAI-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-HAI-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-HAI-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-HAI-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-HAI-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-LOC-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-LOC-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-LOC-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-LOC-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-LOC-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-LOC-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-URQ-HWA": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-URQ-HWA_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-URQ-AWSF": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-URQ-AWSF_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-URQ-HWWO": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-URQ-HWWO_rrp": [
+    {
+      "price": 5900,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CED-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CED-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CED-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CED-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CED-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CED-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHA-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHA-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHA-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHA-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHA-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHA-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHAM-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHAM-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHAM-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHAM-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHAM-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CHAM-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CRE-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CRE-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CRE-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CRE-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CRE-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-CRE-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BLU-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BLU-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BLU-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BLU-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BLU-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BLU-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-AQU-HWA": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-AQU-HWA_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-AQU-AWSF": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-AQU-AWSF_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-AQU-HWWO": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-AQU-HWWO_rrp": [
+    {
+      "price": 6500,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TOP-HWA": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TOP-HWA_rrp": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TOP-AWSF": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TOP-AWSF_rrp": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TOP-HWWO": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-TOP-HWWO_rrp": [
+    {
+      "price": 8300,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BEI-HWA": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BEI-HWA_rrp": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BEI-AWSF": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BEI-AWSF_rrp": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BEI-HWWO": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
+    }
+  ],
+  "C-HH-CAL-BEI-HWWO_rrp": [
+    {
+      "price": 9200,
+      "currency": "USD",
+      "ts": "2026-10-15T14:38:14.400Z"
     }
   ]
 }
